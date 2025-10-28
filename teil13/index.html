@@ -1,0 +1,529 @@
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<link href="../teil12/" rel="prev"/>
+<link href="../teil14/" rel="next"/>
+<link href="../assets/images/favicon.png" rel="icon"/>
+<meta content="mkdocs-1.6.1, mkdocs-material-9.6.21" name="generator"/>
+<title>Berücksichtigung von Randbedingungen - Leitfaden naturnahe Regenwasserbewirtschaftung Graz</title>
+<link href="../assets/stylesheets/main.2a3383ac.min.css" rel="stylesheet"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback" rel="stylesheet"/>
+<style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+<script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+</head>
+<body dir="ltr">
+<input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
+<input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
+<label class="md-overlay" for="__drawer"></label>
+<div data-md-component="skip">
+<a class="md-skip" href="#berucksichtigung-von-randbedingungen">3.1 
+          Skip to content
+        </a>
+</div>
+<div data-md-component="announce">
+</div>
+<header class="md-header md-header--shadow" data-md-component="header">
+<nav aria-label="Header" class="md-header__inner md-grid">
+<a aria-label="Leitfaden naturnahe Regenwasserbewirtschaftung Graz" class="md-header__button md-logo" data-md-component="logo" href=".." title="Leitfaden naturnahe Regenwasserbewirtschaftung Graz">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+</a>
+<label class="md-header__button md-icon" for="__drawer">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"></path></svg>
+</label>
+<div class="md-header__title" data-md-component="header-title">
+<div class="md-header__ellipsis">
+<div class="md-header__topic">
+<span class="md-ellipsis">
+            Leitfaden naturnahe Regenwasserbewirtschaftung Graz
+          </span>
+</div>
+<div class="md-header__topic" data-md-component="header-topic">
+<span class="md-ellipsis">
+            
+              Berücksichtigung von Randbedingungen
+            
+          </span>
+</div>
+</div>
+</div>
+<script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+<label class="md-header__button md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"></path></svg>
+</label>
+<div class="md-search" data-md-component="search" role="dialog">
+<label class="md-search__overlay" for="__search"></label>
+<div class="md-search__inner" role="search">
+<form class="md-search__form" name="search">
+<input aria-label="Search" autocapitalize="off" autocomplete="off" autocorrect="off" class="md-search__input" data-md-component="search-query" name="query" placeholder="Search" required="" spellcheck="false" type="text"/>
+<label class="md-search__icon md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"></path></svg>
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"></path></svg>
+</label>
+<nav aria-label="Search" class="md-search__options">
+<button aria-label="Clear" class="md-search__icon md-icon" tabindex="-1" title="Clear" type="reset">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path></svg>
+</button>
+</nav>
+</form>
+<div class="md-search__output">
+<div class="md-search__scrollwrap" data-md-scrollfix="" tabindex="0">
+<div class="md-search-result" data-md-component="search-result">
+<div class="md-search-result__meta">
+            Initializing search
+          </div>
+<ol class="md-search-result__list" role="presentation"></ol>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</header>
+<div class="md-container" data-md-component="container">
+<main class="md-main" data-md-component="main">
+<div class="md-main__inner md-grid">
+<div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="Navigation" class="md-nav md-nav--primary" data-md-level="0">
+<label class="md-nav__title" for="__drawer">
+<a aria-label="Leitfaden naturnahe Regenwasserbewirtschaftung Graz" class="md-nav__button md-logo" data-md-component="logo" href=".." title="Leitfaden naturnahe Regenwasserbewirtschaftung Graz">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+</a>
+    Leitfaden naturnahe Regenwasserbewirtschaftung Graz
+  </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="..">
+<span class="md-ellipsis">
+    Einleitung
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+<input checked="" class="md-nav__toggle md-toggle" id="__nav_2" type="checkbox"/>
+<label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+<span class="md-ellipsis">
+    Teil 1 - Strategie und Planung auf Stadtebene
+    
+  </span>
+<span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="true" aria-labelledby="__nav_2_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_2">
+<span class="md-nav__icon md-icon"></span>
+            Teil 1 - Strategie und Planung auf Stadtebene
+          </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../teil11/">
+<span class="md-ellipsis">
+    Ziele dezentraler Niederschlagswasserbewirtschaftung
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../teil12/">
+<span class="md-ellipsis">
+    Zielvorgaben in der Stadt Graz
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item md-nav__item--active">
+<input class="md-nav__toggle md-toggle" id="__toc" type="checkbox"/>
+<label class="md-nav__link md-nav__link--active" for="__toc">
+<span class="md-ellipsis">
+    Berücksichtigung von Randbedingungen
+    
+  </span>
+<span class="md-nav__icon md-icon"></span>
+</label>
+<a class="md-nav__link md-nav__link--active" href="./">
+<span class="md-ellipsis">
+    Berücksichtigung von Randbedingungen
+    
+  </span>
+</a>
+<nav aria-label="Table of contents" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#berucksichtigung-von-randbedingungen">3.1 
+<span class="md-ellipsis">
+      Berücksichtigung von Randbedingungen
+    </span>
+</a>
+<nav aria-label="Berücksichtigung von Randbedingungen" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#wasserqualitat">3.1.1 
+<span class="md-ellipsis">
+      Wasserqualität
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#welche-manahmen-stehen-zur-verfugung">3.1.2 
+<span class="md-ellipsis">
+      Welche Maßnahmen stehen zur Verfügung?
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#wo-konnen-welche-manahmen-umgesetzt-werden">3.1.3 
+<span class="md-ellipsis">
+      Wo können welche Maßnahmen umgesetzt werden?
+    </span>
+</a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../teil14/">
+<span class="md-ellipsis">
+    Wechselwirkungen zwischen verschiedenen Teilen der Infrastruktur
+    
+  </span>
+</a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--section md-nav__item--nested">
+<input class="md-nav__toggle md-toggle md-toggle--indeterminate" id="__nav_3" type="checkbox"/>
+<label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
+<span class="md-ellipsis">
+    Teil 2 - Baumstandorte als Elemente der Regenwasserbewirtschaftung
+    
+  </span>
+<span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_3_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_3">
+<span class="md-nav__icon md-icon"></span>
+            Teil 2 - Baumstandorte als Elemente der Regenwasserbewirtschaftung
+          </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../teil21/">
+<span class="md-ellipsis">
+    Funktionsweise / Grundprinzipien
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../teil22/">
+<span class="md-ellipsis">
+    Verwendete Substrate
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../teil23/">
+<span class="md-ellipsis">
+    Element Umgebung
+    
+  </span>
+</a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../teil3/">
+<span class="md-ellipsis">
+    Teil 3 - Konzept und Planung
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../projektbeteiligte/">
+<span class="md-ellipsis">
+    Projektbeteiligte
+    
+  </span>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="Table of contents" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#berucksichtigung-von-randbedingungen">3.1 
+<span class="md-ellipsis">
+      Berücksichtigung von Randbedingungen
+    </span>
+</a>
+<nav aria-label="Berücksichtigung von Randbedingungen" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#wasserqualitat">3.1.1 
+<span class="md-ellipsis">
+      Wasserqualität
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#welche-manahmen-stehen-zur-verfugung">3.1.2 
+<span class="md-ellipsis">
+      Welche Maßnahmen stehen zur Verfügung?
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#wo-konnen-welche-manahmen-umgesetzt-werden">3.1.3 
+<span class="md-ellipsis">
+      Wo können welche Maßnahmen umgesetzt werden?
+    </span>
+</a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-content" data-md-component="content">
+<article class="md-content__inner md-typeset">
+<h1><span class="enumerate-headings-plugin enumerate-heading-plugin">3.</span> Berücksichtigung von Randbedingungen</h1>
+<h2 id="berucksichtigung-von-randbedingungen"><span class="enumerate-headings-plugin enumerate-heading-plugin">3.1</span> Berücksichtigung von Randbedingungen</h2>
+<p>Ob Versickerung in der Stadt möglich ist, hängt von verschiedenen
+Randbedingungen ab. Diese Randbedingungen sind siedlungsstruktureller,
+geogener und wasserwirtschaftlicher Natur. In der Maßnahmenkarte zur
+Grundwasseranreicherung der Stadt Graz werden diese Randbedingungen zu
+einer Karte zusammengefasst, die mögliche Maßnahmen zur
+Grundwasseranreicherung / Versickerung nach ihrer räumlichen Lage
+aufzeigt (Krebs, 2016).</p>
+<h3 id="wasserqualitat"><span class="enumerate-headings-plugin enumerate-heading-plugin">3.1.1</span> Wasserqualität</h3>
+<p>Erkenntnisse aus dem Endbericht „Naturnahe Regenwasserbewirtschaftung
+4.0 -- Handlungsempfehlungen für Graz und die Steiermark" ([SWW TU Graz,
+2022]{.mark}).</p>
+<p>Atmosphärische Deposition und Oberflächenabfluss können das
+Niederschlagswasser stofflich belasten und die Umwelt beeinträchtigen.
+Die Maßgeblichkeit für die Vegetation, das Grundwasser und das
+Oberflächengewässer hängt von der Ausführungsart der dNWBs ab und muss
+auch die internationalen und nationalen Regularien berücksichtigen.</p>
+<p>Im Zuge einer Literaturrecherche wurden 53 relevante Parameter ermittelt
+und dessen Anwendungsgebiete, Herkunftsflächen, chemische und
+physikalische Eigenschaften, vorhandene Messdaten und Rückhalt in dNWBs
+recherchiert. Dabei konnten nicht immer alle Informationen zu den 53
+Parametern erruiert werden. Genaue Informationen zu den einzelnen
+Stoffen können im Endbericht „Naturnahe Regenwasserbewirtschaftung 4.0
+-- Handlungsempfehlungen für Graz und die Steiermark" ([SWW TU Graz,
+2022]{.mark}) nachgelesen werden.</p>
+<p>Ein wesentlicher Aspekt in diesem Projekt war die stoffliche Belastung
+von Dachwässern. Der Leitfaden vom Amt der Oö. Landesregierung „zur
+Verbringung von Niederschlagswässern von Dachflächen und befestigten
+Flächen" (Aschauer et al., 2021) besagt, dass Dächer mit bituminösen
+Dichtungsbahnen keine messbaren Emissionen von PAKs mehr aufweisen. Der
+Grund dafür ist, dass nur noch bitumengebundene Dichtungsbahnen
+verwendet werden. Auch Dächer mit Foliendichtungen weisen bezüglich
+Pestizide oder anderen relevanten Additive meistens keine messbaren
+Emissionen auf. Bei Dächern die unbeschichtet und metallgedeckt sind,
+weist das Dachwasser hinsichtlich Zink und Kupfer erhöhte Werte auf und
+muss ab einer Dachflächengröße von 200 m² vorgereinigt werden.</p>
+<p>Ein weiterer Stoff dem hinsichtlich Dachwässer Aufmerksamkeit geschenkt
+werden soll ist Mecoprop (Burkhardt, 2012; Eggen, 2009). Mecoprop ist
+der Wirkstoff von wurzelfesten Bitumenbahnen die bei Flachdächern ihre
+Anwendung finden und wird durch Hydrolyse aus dem im Bitumen enthaltenen
+Ester freigesetzt. Dabei konnte beobachtet werden, dass vor allem beim
+Materialschutzmittel Preventol B2 (Glykolester von Mecoprop), aufgrund
+dessen schlechten Auswaschverhalten, hohe Belastungen stattfinden. Die
+Dachwasserentlastung kann bis um das 20-fache reduziert werden, wenn
+Preventol B2 zum Beispiel mit 2-Ethylhexlyester von Herbitect oder
+Preventol B5 ersetzt wird. Das schweizer Bundesamt für Umwelt (BAFU)
+empfiehlt Bitumenbahnen mit Durchwurzelungsschutzmittel nur auf
+Gründächern anzuwenden und generell sollte im Fundamentbereich und auf
+begrünten Tiefgaragendächern auf eine Anwendung verzichtet werden.
+(EAWAG, 2009)</p>
+<p>Bei dem parallel laufenden Projekt von Land schafft Wasser wurden
+Säulenversuche beauftragt, bei denen nach ÖNORM B 2506-3 unter anderem
+der Rückhalt von Blei, Kupfer und Zink untersucht wird. Soll das
+Substrat auch als Grundwasserschutz dienen, wäre es empfehlenswert den
+Schadstoffrückhalt von den Parametern der QZV Chemie GW zu untersuchen
+([Anhang F im Endbericht]{.mark}). Die Liste mit den 61 Parametern deckt
+sich diesbezüglich mit folgenden Parametern: Blei, Cadmium, Chrom,
+Kupfer, Nickel, Quecksilber und PAK. In einem noch unveröffentlichten
+Bericht (Allabashi et al., 2022) wurden, bezüglich Schadstoffrückhalt im
+Substrat, folgende Parameter untersucht: Blei, Cadmium, Chrom, Kupfer,
+Nickel, elektrische Leitfähigkeit, Ammonium, Nitrat, Chlorid, Sulfat,
+Phosphat, Summe PAKs, KW-Index. Da die Richtlinien zur Einhaltung von
+Grenzwerten bestimmter Spurenstoffe in der Zukunft bestimmt strenger
+werden und auch die Parameterlisten angepasst werden, ist es
+empfehlenswert, dass die eingesetzten Substrate in dNWBs auf mehr als
+nur die Parameter nach ÖNORM B 2506-3 untersucht werden.</p>
+<h3 id="welche-manahmen-stehen-zur-verfugung"><span class="enumerate-headings-plugin enumerate-heading-plugin">3.1.2</span> Welche Maßnahmen stehen zur Verfügung?</h3>
+<p>Für die Erstellung der Maßnahmenkarte wurden folgende mögliche Maßnahmen
+betrachtet:</p>
+<hr/>
+<p>Versickerungssystem          Kürzel     Kurzbeschreibung</p>
+<hr/>
+<p>Flächenversickerung          FV         Die Flächenversickerung eignet sich für
+                                          Oberflächen, bei denen die
+                                          Versickerungsleistung größer ist, als der
+                                          anfallende Regenabfluss.</p>
+<p>Muldenversickerung           MV         Bei der Muldenversickerung kommt eine
+                                          Mulde zur Zwischenspeicherung zum Einsatz.
+                                          Die Einstautiefe beträgt in der Regel
+                                          weniger als 0,3 m und ein Einstau darf
+                                          maximal 24 h dauern.</p>
+<p>Beckenversickerung           BV         Versickerungsbecken haben eine
+                                          Einstautiefe von mehr als 0,3 m und der
+                                          Einstau darf 24 h überschreiten. Aufgrund
+                                          von Ertrinkungsgefahr sind
+                                          Versickerungsbecken einzuzäunen. Sie
+                                          zählen aufgrund ihrer Größe eher zu den
+                                          zentralen Maßnahmen.</p>
+<p>Rigolen- oder                RV         Bei der Rigolenversickerung wird Wasser in
+  Rohrversickerung                        einen unterirdischen Retentionsraum aus
+                                          Kies, Waben o.ä. porösem Material
+                                          eingebracht, um dort zu versickern. Bei
+                                          der Rohrversickerung wird in die
+                                          Rigolenpackung zur schnelleren Verteilung
+                                          in der Rigole ein Verteilrohr eingebaut.</p>
+<p>Schachtversickerung          SV         Bei der Schachtversickerung erfolgt die
+                                          Versickerung über Einleitung in einen
+                                          Schacht. Dieser Schacht ist am Mantel
+                                          und/oder an der Schachtsohle durchlässig
+                                          sein, um das Wasser an den durchlässigen
+                                          Untergrund abzugeben.</p>
+<p>Mulden-Rigol-System          MR         Das Mulden-Rigol-Element besteht aus einem
+                                          Mulden-Element an der Oberfläche mit einer
+                                          darunterliegenden Rigole. Das
+                                          Mulden-Rigol-System besteht aus mehreren,
+                                          in Reihe geschalteten
+                                          Mulden-Rigol-Elementen. Die Mulden-Rigole
+                                          kombiniert die Vorteile der Retention und
+                                          Reinigung des Regenwassers an der
+                                          Oberfläche mit der erhöhten Sickerleistung
+                                          der Rigole.</p>
+<p>Retentionsraumversickerung   RERV       Die Retentionsraumversickerung ist ein
+                                          oberflächig angeordnetes System, das
+                                          Reinigung, Speicherung und Versickerung
+                                          vereint. Niederschlagswässer werden in
+                                          einen, zum Untergrund abgedichteten,
+                                          Speicherteich oder Graben eingeleitet.
+                                          Überschreitet der Wasserpegel die
+                                          Dauerstaulinie versickert das Wasser in
+                                          der angeschlossenen Mulde in den
+                                          Untergrund.</p>
+<p>Sonstige Maßnahmen           Sonstige   Unter sonstigen Maßnahmen werden
+                                          alternative Maßnahmen wie Gründächer und
+                                          Regenwassernutzung zusammengefasst.</p>
+<hr/>
+<h3 id="wo-konnen-welche-manahmen-umgesetzt-werden"><span class="enumerate-headings-plugin enumerate-heading-plugin">3.1.3</span> Wo können welche Maßnahmen umgesetzt werden?</h3>
+<p>Zur Erstellung der Maßnahmenkarte wurden verschiedene Randbedingungen
+berücksichtigt. Die berücksichtigten Randbedingungen sind in Tabelle 3‑1
+gelistet und beschrieben.</p>
+<p>+------------------------+----------------------------------------------+
+| Datengrundlage &amp;       | Beschreibung                                 |
+| Quelle                 |                                              |
++:=======================+==============================================+
+| Versiegelung /         | Über die Versiegelung und Landnutzung wird   |
+| Landnutzung            | die für naturnahe Regenwasserbewirtschaftung |
+|                        | zur Verfügung stehende Fläche quantifiziert  |
++------------------------+----------------------------------------------+
+| Bodendurchlässigkeit   | Zur Beurteilung der Eignung verschiedener    |
+|                        | Versickerungsmaßnahmen wird die              |
+| Themenkarten Baugrund  | Durchlässigkeit des Bodens herangezogen und  |
+| Graz                   | in 3 Kategorien eingeteilt: 1. Versickerung  |
+|                        | wahrscheinlich möglich, 2. Versickerung      |
+|                        | wahrscheinlich möglich, 3. Versickerung      |
+|                        | wahrscheinlich nicht möglich.                |
++------------------------+----------------------------------------------+
+| Baurisiko              | Das Baurisiko beschreibt qualitativ die      |
+|                        | Erdrutschgefährdung durch gestörte           |
+| Themenkarten Baugrund  | geologische Untergrundverhältnisse.          |
+| Graz                   |                                              |
++------------------------+----------------------------------------------+
+| Hangneigung            | Ungünstige Kombinationen aus Hangneigung und |
+|                        | Bodenverhältnissen können zu Hangvernässung, |
+|                        | Rutschung und Quellaustritten durch          |
+|                        | Schichtenwasser führen.                      |
++------------------------+----------------------------------------------+
+| Mächtigkeit der        | Zwischen Grundwasserleiter und Oberfläche    |
+| Deckschicht            | befindet sich in der Regel eine bindige      |
+|                        | Deckschicht und darüber anthropogene         |
+|                        | Anschüttungen. Die Mächtigkeit der bindigen  |
+|                        | Deckschicht hat großen Einfluss auf die      |
+|                        | Möglichkeiten zur Grundwasseranreicherung.   |
++------------------------+----------------------------------------------+
+| Grundwasserflurabstand | Um eine ausreichende Reinigung des           |
+|                        | Niederschlagswässer zu gewährleisten, ist    |
+|                        | eine ausreichende Sickerstrecke notwendig.   |
+|                        | Hierbei soll 1 m nicht unterschritten        |
+|                        | werden.                                      |
++------------------------+----------------------------------------------+
+| Grundwasserschutzzonen | In Grundwasserschutzzonen ist die            |
+|                        | Versickerung nicht oder nur bedingt          |
+|                        | zulässig.                                    |
++------------------------+----------------------------------------------+</p>
+<p>: Tabelle 3‑1: In der Maßnahmenkarte berücksichtigte Randbedingungen.</p>
+<p>Die Randbedingungen wurden in einer Entscheidungsmatrix, die dem Bericht
+zur Erstellung der Maßnahmenkarte entnommen werden kann, kombiniert und
+ausgewertet (Assinger, 2012). Das Ergebnis ist eine Karte mit einer
+Auflösung von 100 m * 100 m, die für die jeweilige Rasterzelle mögliche
+Grundwasseranreicherungsmaßnahmen zeigt. Die Karte wird klein in
+Abbildung 1 dargestellt und kann im Anhang gefunden werden.</p>
+<p><img alt="[]{#_Ref164688800 .anchor}Abbildung 1: Maßnahmenkarte zur
+Grundwasseranreicherung in Graz" src="media/image3.png"/></p>
+</article>
+</div>
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+</div>
+</main>
+<footer class="md-footer">
+<div class="md-footer-meta md-typeset">
+<div class="md-footer-meta__inner md-grid">
+<div class="md-copyright">
+<div class="md-copyright__highlight">
+      Copyright © 2025 - Graz University of Technology
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" rel="noopener" target="_blank">
+      Material for MkDocs
+    </a>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div class="md-dialog" data-md-component="dialog">
+<div class="md-dialog__inner md-typeset"></div>
+</div>
+<script id="__config" type="application/json">{"base": "..", "features": ["navigation.expand", "navigation.sections"], "search": "../assets/javascripts/workers/search.973d3a69.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+<script src="../assets/javascripts/bundle.f55a23d4.min.js"></script>
+</body>
+</html>
