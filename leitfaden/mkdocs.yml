@@ -1,0 +1,36 @@
+site_name: Leitfaden naturnahe Regenwasserbewirtschaftung Graz
+theme:
+  name: material
+#  custom_dir: overrides
+  features:
+    - navigation.expand
+    - navigation.sections
+#    - content.footer
+
+plugins:
+  - search
+  - enumerate-headings:
+      toc_depth: 3    # bis Ebene 3 nummerieren (ToC inkl.)
+      strict: true    # Fehler melden, wenn erste Überschrift nicht H1 ist
+      exclude: ["index.md",
+                "projektbeteiligte.md"]
+      increment_across_pages: True
+
+#extra:
+#  generator: false
+
+copyright: Copyright &copy; 2025 - Graz University of Technology
+
+nav:
+  - Einleitung: index.md
+  - Teil 1 - Strategie und Planung auf Stadtebene:
+      - Ziele dezentraler Niederschlagswasserbewirtschaftung: teil11.md
+      - Zielvorgaben in der Stadt Graz: teil12.md
+      - Berücksichtigung von Randbedingungen: teil13.md
+      - Wechselwirkungen zwischen verschiedenen Teilen der Infrastruktur: teil14.md
+  - Teil 2 - Baumstandorte als Elemente der Regenwasserbewirtschaftung:
+      - Funktionsweise / Grundprinzipien: teil21.md
+      - Verwendete Substrate: teil22.md
+      - Element Umgebung: teil23.md
+  - Teil 3 - Konzept und Planung: teil3.md
+  - Projektbeteiligte: projektbeteiligte.md

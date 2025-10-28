@@ -1,0 +1,70 @@
+# Leitfaden zur naturnahen Regenwasserbewirtschaftung in der Stadt Graz
+
+Dieser Leitfaden ist im Rahmen des Projektes "naturnahe Regenwasserbewirtschaftung 4.0" der Stadt Graz, des Lades Steiermark und der Holding Graz entstanden und wird betreut.
+
+<div style="display:flex; justify-content:center; align-items:center; gap:16px; flex-wrap:wrap;">
+  <a href="https://www.tugraz.at" style="display:inline-flex;">
+    <img src="assets/logo_tug.svg" alt="TU Graz"
+         style="height:50px; width:auto !important; max-width:none !important;">
+  </a>
+  <a href="https://www.graz.at" style="display:inline-flex;">
+    <img src="assets/logo_graz.jpg" alt="Stadt Graz"
+         style="height:50px; width:auto !important; max-width:none !important;">
+  </a>
+  <a href="https://www.verwaltung.steiermark.at/cms/ziel/74967336/DE" style="display:inline-flex;">
+    <img src="assets/logo_land.svg" alt="Land Steiermark"
+         style="height:50px; width:auto !important; max-width:none !important;">
+  </a>
+  <a href="https://www.holding-graz.at/de/" style="display:inline-flex;">
+    <img src="assets/logo_holding.png" alt="Holding Graz"
+         style="height:50px; width:auto !important; max-width:none !important;">
+  </a>
+</div>
+
+
+
+[//]: # (<p align="center">)
+
+[//]: # (  <a href="https://www.tugraz.at" target="_blank">)
+
+[//]: # (    <img src="assets/logo_tug.svg" alt="TU Graz" height="50" style="margin: 0 10px;">)
+
+[//]: # (  </a>)
+
+[//]: # (  <a href="https://www.graz.at" target="_blank">)
+
+[//]: # (    <img src="assets/logo_graz.jpg" alt="Stadt Graz" height="50" style="margin: 0 10px;">)
+
+[//]: # (  </a>)
+
+[//]: # (  <a href="https://www.verwaltung.steiermark.at/cms/ziel/74967336/DE" target="_blank">)
+
+[//]: # (    <img src="assets/logo_land.svg" alt="Land Steiermark" height="50" style="margin: 0 10px;">)
+
+[//]: # (  </a>)
+
+[//]: # (  <a href="https://www.holding-graz.at/de/" target="_blank">)
+
+[//]: # (    <img src="assets/logo_holding.png" alt="Holding Graz" height="50" style="margin: 0 10px;">)
+
+[//]: # (  </a>)
+
+[//]: # (</p>)
+
+## Über [Teil 1 - Strategie und Planung auf Stadtebene](teil1.md)
+
+* `mkdocs new [dir-name]` - Create a new project.
+* `mkdocs serve` - Start the live-reloading docs server.
+* `mkdocs build` - Build the documentation site.
+* `mkdocs -h` - Print help message and exit.
+* 
+## Über [Teil 2 - Baumstandorte als Elemente der Regenwasserbewirtschaftung](teil21.md)
+
+## Über [Teil 3 - Konzept und Planung](teil3.md)
+
+## Project layout
+
+    mkdocs.yml    # The configuration file.
+    docs/
+        index.md  # The documentation homepage.
+        ...       # Other markdown pages, images and other files.
