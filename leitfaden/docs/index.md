@@ -53,7 +53,7 @@ Dieser Leitfaden ist im Rahmen des Projektes "naturnahe Regenwasserbewirtschaftu
 
 ## Über [Teil 1 - Strategie und Planung auf Stadtebene](teil1.md)
 
-## Über [Teil 2 - Baumstandorte als Elemente der Regenwasserbewirtschaftung](teil21.md)
+## Über [Teil 2 - Baumstandorte als Elemente der Regenwasserbewirtschaftung](teil2.md)
 
 ## Über [Teil 3 - Konzept und Planung](teil3.md)
 
