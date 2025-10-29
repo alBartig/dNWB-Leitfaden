@@ -2,9 +2,9 @@
 
 ### Grünflächenfaktor
 
-!!! summary "Kurzfassung"
-    **Bauprojekte müssen in Graz einen Grünflächenfaktor zwischen 0,4 und 0,8 einhalten.**  
-    Dieser beschreibt das Verhältnis vegetationsbedeckter Flächen zur Bauplatzfläche und kann über Dachbegrünungen, Wasserflächen oder Baumpflanzungen erreicht werden.
+> **_Kurzfassung:_**
+> Bauprojekte müssen in Graz einen Grünflächenfaktor zwischen 0,4 und 0,8 einhalten.
+Dieser beschreibt das Verhältnis vegetationsbedeckter Flächen zur Bauplatzfläche und kann über Dachbegrünungen, Wasserflächen oder Baumpflanzungen erreicht werden.
 
 Mit dem Grünflächenfaktor schreibt die Stadt Graz Bauherren ein
 Verhältnis zwischen der mit Vegetation bedeckten Fläche zur
@@ -19,10 +19,8 @@ Verordnung, 2023)
 
 ### Zurückzuhaltender Niederschlag
 
-!!! summary "Kurzfassung"
-    **Niederschlagswasser muss auf eigenem Grundstück versickert oder zurückgehalten werden.**  
-    Grundlage ist ein 30-jähriges Regenereignis, die Bemessung erfolgt nach ÖNORM B 2506-1, ÖWAV 35/45 und DWA A-138.  
-    Nur wenn Versickerung unmöglich ist, darf in das Kanalnetz eingeleitet werden.
+> **_Kurzfassung:_**
+>Niederschlagswasser muss auf eigenem Grundstück versickert oder zurückgehalten werden.  Grundlage ist ein 30-jähriges Regenereignis, die Bemessung erfolgt nach ÖNORM B 2506-1, ÖWAV 35/45 und DWA A-138. Nur wenn Versickerung unmöglich ist, darf in das Kanalnetz eingeleitet werden.
 
 Laut dem Informationsblatt „Verbringung der Niederschlagswässer im
 Bauverfahren" der Bau- und Anlagenbehörde der Stadt Graz müssen
