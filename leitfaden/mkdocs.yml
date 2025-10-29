@@ -13,7 +13,8 @@ plugins:
       toc_depth: 3    # bis Ebene 3 nummerieren (ToC inkl.)
       strict: true    # Fehler melden, wenn erste Überschrift nicht H1 ist
       exclude: ["index.md",
-                "projektbeteiligte.md"]
+                "projektbeteiligte.md",
+                "kontakt.md",]
       increment_across_pages: True
 
 #extra:
