@@ -201,8 +201,16 @@ Substrat | Natürlicher Bodenfilter | Baumsubstrat (Variante 1)
 **Wasseranteil bei pF 1,8 in Vol.-%** | 35,5 ± 0,6 | 16,4 ± 0,7
 **Permanenter Welkepunkt in Vol.-%** | 16,2 ± 0,0 | 4,0 ± 0,1
 
+!!! info
+    Für weitere Informationen siehe Bericht [Hydrologische Charakterisierung der Substrate von Land Schafft Wasser](...)
 
-### Überbaubare Substrate (LsW, JR ACS)
+    Ansprechpartner: 
+
+    - [Land schafft Wasser](https://www.landschafftwasser.at/)
+    - [JR AquaConSol](https://www.jr-aquaconsol.at/)
+    
+
+### Überbaubare Substrate
 
 !!! abstract 
     Das Schwammstadtsubstrat ist ein grob aufgebautes, überbaubares Struktursubstrat, das im Labor (Mikrolysimeter) und im Großlysimeter sehr ähnliche hydraulische Kennwerte zeigte. Es hat hohe Durchlässigkeit und Luftkapazität, aber deutlich geringere pflanzenverfügbare Wasserspeicherung als natürliche Böden oder nicht überbaubare Baumsubstrate. Deshalb braucht es genügend Volumen bzw. Nachspeisung.
@@ -303,6 +311,12 @@ Versuchsbezeichnung | Großlysimeterversuch (2024) | Laborversuche (Mikrolysimet
 
 !!! info
     Für weitere Informationen siehe Bericht [Hydrologische Charakterisierung der Substrate von Land Schafft Wasser](...)
+
+    Ansprechpartner: 
+
+    - [Land schafft Wasser](https://www.landschafftwasser.at/)
+    - [JR AquaConSol](https://www.jr-aquaconsol.at/)
+    
 
 
 ### Beständigkeit / Langzeittests (JR ACS, LsW)
@@ -412,3 +426,10 @@ bodenhydrologischen Parameter nicht Gegenstand der Untersuchungen.
 Weitere Details zur Versuchsmethodik und zu den erzielten Ergebnissen
 können dem Bericht „Großlysimeter -- Schwammstadtsubstrat" vom Juni 2024
 entnommen werden.
+
+!!! info
+    Ansprechpartner: 
+
+    - [Land schafft Wasser](https://www.landschafftwasser.at/)
+    - [JR AquaConSol](https://www.jr-aquaconsol.at/)
+    
