@@ -7,6 +7,11 @@ theme:
     - navigation.sections
 #    - content.footer
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 plugins:
   - search
   - enumerate-headings:

@@ -3,7 +3,8 @@
 
 ### Substrate zur Filterung (LsW)
 
->**Zusammenfassung:** Regenwasser von Verkehrsflächen muss vor der Versickerung je nach Flächenkategorie gereinigt werden. Natürliche und technische Bodenfilter nach ÖNORM B 2506-2 bzw. ÖWAV RB 45 können die üblichen Schadstoffe zurückhalten und erfüllen damit die Anforderungen des Grundwasserschutzes. Die direkte Einleitung in Baumscheiben rückt in engen Stadträumen in den Fokus, ist aber normativ (noch) nicht voll abgedeckt.
+!!! abstract
+    Regenwasser von Verkehrsflächen muss vor der Versickerung je nach Flächenkategorie gereinigt werden. Natürliche und technische Bodenfilter nach ÖNORM B 2506-2 bzw. ÖWAV RB 45 können die üblichen Schadstoffe zurückhalten und erfüllen damit die Anforderungen des Grundwasserschutzes. Die direkte Einleitung in Baumscheiben rückt in engen Stadträumen in den Fokus, ist aber normativ (noch) nicht voll abgedeckt.
 
 Wird Regenwasser von Verkehrsflächen gezielt zur Versickerung gebracht,
 ist je nach Flächenkategorie eine geeignete Reinigungsmaßnahme
@@ -183,7 +184,7 @@ Baumsubstraten eingesetzt, um die Verdichtungsanfälligkeit zu minimieren
 und somit möglichst dauerhaft eine ausreichend hohe Luftkapazität im
 Wurzelraum zu gewährleisten. Detailliertere Informationen können dem
 Bericht „Hydrologische Charakterisierung der Substrate" vom August 2022
-entnommen werden.
+entnommen werden. 
 
 **Tabelle 3: Bodenhydrologische und bodenphysikalische Eigenschaften
 eines Bodenfiltersubstrats sowie eines nicht überbaubaren Baumsubstrats
@@ -203,7 +204,8 @@ Substrat | Natürlicher Bodenfilter | Baumsubstrat (Variante 1)
 
 ### Überbaubare Substrate (LsW, JR ACS)
 
->**Zusammenfassung:** Das Schwammstadtsubstrat ist ein grob aufgebautes, überbaubares Struktursubstrat, das im Labor (Mikrolysimeter) und im Großlysimeter sehr ähnliche hydraulische Kennwerte zeigte. Es hat hohe Durchlässigkeit und Luftkapazität, aber deutlich geringere pflanzenverfügbare Wasserspeicherung als natürliche Böden oder nicht überbaubare Baumsubstrate. Deshalb braucht es genügend Volumen bzw. Nachspeisung.
+!!! abstract 
+    Das Schwammstadtsubstrat ist ein grob aufgebautes, überbaubares Struktursubstrat, das im Labor (Mikrolysimeter) und im Großlysimeter sehr ähnliche hydraulische Kennwerte zeigte. Es hat hohe Durchlässigkeit und Luftkapazität, aber deutlich geringere pflanzenverfügbare Wasserspeicherung als natürliche Böden oder nicht überbaubare Baumsubstrate. Deshalb braucht es genügend Volumen bzw. Nachspeisung.
 
 Das Schwammstadtsubstrat als spezielles überbaubares Struktursubstrat
 stellt aufgrund seiner Zusammensetzung und der Einbauweise eine
@@ -280,7 +282,7 @@ nicht überbaubaren Baumsubstraten bereitzustellen, um insbesondere in
 den ersten Standjahren optimale Wuchsbedingungen für die Stadtbäume zu
 schaffen.
 
-**Tabelle 4:Vergleich zweier Untersuchungsmethoden zur Bestimmung der
+**Tabelle 4: Vergleich zweier Untersuchungsmethoden zur Bestimmung der
 bodenphysikalischen und bodenhydrologischen Eigenschaften des
 Schwammstadtsubstrats; ∆ steht für die Differenz zwischen den
 Einzelwerten des Großlysimeterversuchs und den Mittelwerten der
@@ -299,10 +301,14 @@ Versuchsbezeichnung | Großlysimeterversuch (2024) | Laborversuche (Mikrolysimet
 **Wasserkapazität 48 h (Großlysimeter)** / **Wasseranteil bei pF 1,8 (Mikrolysimeter) in Vol.-%** | 6,5 | 6,1 ± 0,9 | 0,4
 **Permanenter Welkepunkt in Vol.-%** | / | 1,08 | /
 
+!!! info
+    Für weitere Informationen siehe Bericht [Hydrologische Charakterisierung der Substrate von Land Schafft Wasser](...)
+
 
 ### Beständigkeit / Langzeittests (JR ACS, LsW)
 
->**Zusammenfassung:** Im Großlysimeterversuch wurden wiederholte Wassereinträge und ein sehr hoher, für Graz hochgerechneter Partikeleintrag simuliert. Feinsubstrat wanderte dabei in tiefere Zonen, ohne die Gesamtfunktion merklich zu verschlechtern. Die gesättigte Durchlässigkeit blieb weitgehend erhalten, der Partikelrückhalt war sehr hoch (>99 %), sodass auch langfristig eine gute Funktionsfähigkeit des Struktursubstrats zu erwarten ist.
+!!! abstract
+    Im Großlysimeterversuch wurden wiederholte Wassereinträge und ein sehr hoher, für Graz hochgerechneter Partikeleintrag simuliert. Feinsubstrat wanderte dabei in tiefere Zonen, ohne die Gesamtfunktion merklich zu verschlechtern. Die gesättigte Durchlässigkeit blieb weitgehend erhalten, der Partikelrückhalt war sehr hoch (>99 %), sodass auch langfristig eine gute Funktionsfähigkeit des Struktursubstrats zu erwarten ist.
 
 Der im vorherigen Kapitel 2.2. beschriebene Großlysimeterversuch sollte
 auch die Frage klären, inwiefern sich die hydrologischen Eigenschaften
