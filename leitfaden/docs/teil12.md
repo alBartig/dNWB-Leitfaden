@@ -20,13 +20,13 @@ Verordnung, 2023)
 ### Zurückzuhaltender Niederschlag
 
 > **_Kurzfassung:_**
->Niederschlagswasser muss auf eigenem Grundstück versickert oder zurückgehalten werden.  Grundlage ist ein 30-jähriges Regenereignis, die Bemessung erfolgt nach ÖNORM B 2506-1, ÖWAV 35/45 und DWA A-138. Nur wenn Versickerung unmöglich ist, darf in das Kanalnetz eingeleitet werden.
+>Niederschlagswasser muss auf eigenem Grundstück versickert oder zurückgehalten werden.  Grundlage ist ein 30-jährliches Regenereignis, die Bemessung erfolgt nach ÖNORM B 2506-1, ÖWAV 35/45 und DWA A-138. Nur wenn Versickerung unmöglich ist, darf in das Kanalnetz eingeleitet werden.
 
 Laut dem Informationsblatt „Verbringung der Niederschlagswässer im
 Bauverfahren" der Bau- und Anlagenbehörde der Stadt Graz müssen
 anfallende Niederschlagswässer auf eigenem Grund zur Versickerung
 gebracht werden. Zugrunde gelegt wird im gesamten Gebiet der Stadt Graz
-ein 30-jähriges Regenereignis. Die Bemessung der Retentions- und
+ein 30-jährliches Regenereignis. Die Bemessung der Retentions- und
 Versickerungsanalagen erfolgt entsprechend dem Stand der Technik nach
 der ÖNORM B 2506-1, den ÖWAV-Regelblättern 35 und 45 und dem DWA
 Arbeitsblatt A-138. Ist die örtliche Versickerung, zum Beispiel auf

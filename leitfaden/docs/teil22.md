@@ -101,50 +101,21 @@ Verwendung als technisches Filtermaterial nach ÖNORM B 2506-3 (2018); n
 steht für die Anzahl an durchgeführten Messungen bzw. analysierten
 Proben**
 
-+--------------------------+----+-------------+-------+---------------+-----------------+-----------------+-----------------+
-| **Prüfung**              |    | **Einheit** | **n** | **Anforderung | **Baum-**       | **Baum-**       | **Baum-**       |
-|                          |    |             |       | lt. ÖNORM     |                 |                 |                 |
-|                          |    |             |       | B2506-3       | **substrat-**   | **substrat-**   | **substrat-**   |
-|                          |    |             |       | (2018)**      |                 |                 |                 |
-|                          |    |             |       |               | **variante 1**  | **variante 2**  | **variante 3**  |
-+==========================+====+:===========:+:=====:+:=============:+:===============:+:===============:+:===============:+
-| **Trübung**              |    | NTU         | 1     | \<10          | **\>10**        | **\>10**        | **\>10**        |
-+--------------------------+----+-------------+-------+---------------+-----------------+-----------------+-----------------+
-| **gesättigte**           |    | m/s         | \>5   | \>7,2\*10^-6^ | **3,5\*10^-5^** | **4,1\*10^-4^** | **4,0\*10^-4^** |
-|                          |    |             |       | (0,6          |                 |                 |                 |
-| **hydraulische**         |    |             |       | l/m²\*min)    |                 |                 |                 |
-|                          |    |             |       |               |                 |                 |                 |
-| **Leitfähigkeit**        |    |             |       |               |                 |                 |                 |
-+--------------------------+----+-------------+-------+---------------+-----------------+-----------------+-----------------+
-| **Infiltrationsrate**    |    | m/s         | \>5   | ≥1,0\*10^-5^  | **2,4\*10^-5^** | **8,6\*10^-5^** | **8,5\*10^-5^** |
-+--------------------------+----+-------------+-------+---------------+-----------------+-----------------+-----------------+
-| **Abnahme der**          |    | \%          | \>5   | \<50          | **50,8**        | **71,8**        | **70,7**        |
-|                          |    |             |       |               |                 |                 |                 |
-| **Infiltrationsrate**    |    |             |       |               |                 |                 |                 |
-+--------------------------+----+-------------+-------+---------------+-----------------+-----------------+-----------------+
-| **Partikelrückhalt**     |    | \%          | 27    | \>80          | **99,7**        | **99,8**        | **99,7**        |
-+--------------------------+----+-------------+-------+---------------+-----------------+-----------------+-----------------+
-| **Partikel-**            |    | mg          | 3     | \<800 bzw.    | **31,0**        | **\<5,4**       | **\<8,2**       |
-|                          |    |             |       | \<1600        |                 |                 |                 |
-| **remobilisierung**      |    |             |       |               |                 |                 |                 |
-+--------------------------+----+-------------+-------+---------------+-----------------+-----------------+-----------------+
-| **Mineralölrückhalt**    |    | \%          | 12    | \>95          | **\>98**        | **≥99**         | **\>99**        |
-+--------------------------+----+-------------+-------+---------------+-----------------+-----------------+-----------------+
-| **Schwermetallrückhalt** | Pb | mg/l        | 15    | \<0,0090      | **\<0,0020**    | **\<0,0039**    | **\<0,0032**    |
-|                          |    |             |       |               |                 |                 |                 |
-| **(Konzentrationsstufe   |    |             |       |               |                 |                 |                 |
-| 2)**                     |    |             |       |               |                 |                 |                 |
-|                          +----+-------------+-------+---------------+-----------------+-----------------+-----------------+
-|                          | Cu | \%          | 15    | \>80          | **\>98**        | **\>82**        | **\>82**        |
-|                          +----+-------------+-------+---------------+-----------------+-----------------+-----------------+
-|                          | Zn | \%          | 15    | \>50          | **\>99**        | **\>93**        | **\>93**        |
-+--------------------------+----+-------------+-------+---------------+-----------------+-----------------+-----------------+
-| **Schwermetall-**        | Cu | mg/l        | 3     | \<0,05        | **\<0,50**      | **\<0,50**      | **\<0,50**      |
-|                          |    |             |       |               |                 |                 |                 |
-| **remobilisierung**      |    |             |       |               |                 |                 |                 |
-|                          +----+-------------+-------+---------------+-----------------+-----------------+-----------------+
-|                          | Zn | mg/l        | 3     | \<0,50        | **\<1,00**      | **\<0,20**      | **\<1,00**      |
-+--------------------------+----+-------------+-------+---------------+-----------------+-----------------+-----------------+
+Prüfung | Schwermetall | Einheit | n | Anforderung lt. ÖNORM B2506-3 (2018) | Baumsubstrat-variante 1 | Baumsubstrat-variante 2 | Baumsubstrat-variante 3
+---------|---------------|----------|---|--------------------------------------|--------------------------|--------------------------|--------------------------
+**Trübung** |  | NTU | 1 | < 10 | **> 10** | **> 10** | **> 10**
+**Gesättigte hydraulische Leitfähigkeit** |  | m/s | > 5 | > 7,2 × 10⁻⁶ (0,6 l/m² min) | **3,5 × 10⁻⁵** | **4,1 × 10⁻⁴** | **4,0 × 10⁻⁴**
+**Infiltrationsrate** |  | m/s | > 5 | ≥ 1,0 × 10⁻⁵ | **2,4 × 10⁻⁵** | **8,6 × 10⁻⁵** | **8,5 × 10⁻⁵**
+**Abnahme der Infiltrationsrate** |  | % | > 5 | < 50 | **50,8** | **71,8** | **70,7**
+**Partikelrückhalt** |  | % | 27 | > 80 | **99,7** | **99,8** | **99,7**
+**Partikelremobilisierung** |  | mg | 3 | < 800 bzw. < 1600 | **31,0** | **< 5,4** | **< 8,2**
+**Mineralölrückhalt** |  | % | 12 | > 95 | **> 98** | **≥ 99** | **> 99**
+**Schwermetallrückhalt (Konzentrationsstufe 2)** – Pb | Pb | mg/l | 15 | < 0,0090 | **< 0,0020** | **< 0,0039** | **< 0,0032**
+**Schwermetallrückhalt (Konzentrationsstufe 2)** – Cu | Cu | % | 15 | > 80 | **> 98** | **> 82** | **> 82**
+**Schwermetallrückhalt (Konzentrationsstufe 2)** – Zn | Zn | % | 15 | > 50 | **> 99** | **> 93** | **> 93**
+**Schwermetallremobilisierung** – Cu | Cu | mg/l | 3 | < 0,05 | **< 0,50** | **< 0,50** | **< 0,50**
+**Schwermetallremobilisierung** – Zn | Zn | mg/l | 3 | < 0,50 | **< 1,00** | **< 0,20** | **< 1,00**
+
 
 Anforderungen der ÖNORM B 2506-3 werden erfüllt
 
@@ -216,32 +187,17 @@ entnommen werden.
 eines Bodenfiltersubstrats sowie eines nicht überbaubaren Baumsubstrats
 unter Angabe des Mittelwerts und der Standardabweichung.**
 
-+-----------------------------------+-----------------+----------------+
-| ***Substrat***                    | **Natürlicher** | **Baumsubstrat |
-|                                   |                 | (Variante 1)** |
-|                                   | **Bodenfilter** |                |
-+===================================+:===============:+:==============:+
-| ***Wiederholungen***              | 3               | 3              |
-+-----------------------------------+-----------------+----------------+
-| ***Untersuchungsmethodik***       | HYPROP          | MSO            |
-+-----------------------------------+-----------------+----------------+
-| ***Trockenrohdichte in t/m³***    | 1,37 ± 0,05     | 1,72 ± 0,02    |
-+-----------------------------------+-----------------+----------------+
-| ***Gesamtporenvolumen in          | 44,4 ± 1,8      | 33,5 ± 0,3     |
-| Vol.-%***                         |                 |                |
-+-----------------------------------+-----------------+----------------+
-| ***Ges. hydr. Leitfähigkeit in    | 2,7 ± 0,4       | 3,1 ± 0,2      |
-| m/d***                            |                 |                |
-+-----------------------------------+-----------------+----------------+
-| ***Wasserkapazität 2h in          | /               | 29,8 ± 0,8     |
-| Vol.-%***                         |                 |                |
-+-----------------------------------+-----------------+----------------+
-| ***Wasseranteil bei pF 1,8 in     | 35,5 ± 0,6      | 16,4 ± 0,7     |
-| Vol.-%***                         |                 |                |
-+-----------------------------------+-----------------+----------------+
-| ***Permanenter Welkepunkt in      | 16,2 ± 0,0      | 4,0 ± 0,1      |
-| Vol.-%***                         |                 |                |
-+-----------------------------------+-----------------+----------------+
+Substrat | Natürlicher Bodenfilter | Baumsubstrat (Variante 1)
+----------|-------------------------|----------------------------
+**Wiederholungen** | 3 | 3
+**Untersuchungsmethodik** | HYPROP | MSO
+**Trockenrohdichte in t/m³** | 1,37 ± 0,05 | 1,72 ± 0,02
+**Gesamtporenvolumen in Vol.-%** | 44,4 ± 1,8 | 33,5 ± 0,3
+**Ges. hydr. Leitfähigkeit in m/d** | 2,7 ± 0,4 | 3,1 ± 0,2
+**Wasserkapazität 2 h in Vol.-%** | / | 29,8 ± 0,8
+**Wasseranteil bei pF 1,8 in Vol.-%** | 35,5 ± 0,6 | 16,4 ± 0,7
+**Permanenter Welkepunkt in Vol.-%** | 16,2 ± 0,0 | 4,0 ± 0,1
+
 
 ### Überbaubare Substrate (LsW, JR ACS)
 
@@ -326,44 +282,18 @@ Schwammstadtsubstrats; ∆ steht für die Differenz zwischen den
 Einzelwerten des Großlysimeterversuchs und den Mittelwerten der
 Mikrolysimeterversuche.**
 
-+---------------------------------+-----------------------------------------------+-------+
-| **Substrat**                    | **Schwammstadtsubstrat**                      | **∆** |
-+=================================+:========================:+:==================:+:=====:+
-| **Versuchsbezeichnung**         | **Großlysimeterversuch** | **Laborversuche**  | ** ** |
-|                                 |                          |                    |       |
-|                                 | **(2024)**               | **(Mikrolysimeter, |       |
-|                                 |                          | 2022)**            |       |
-+---------------------------------+--------------------------+--------------------+-------+
-| **Wiederholungen**              | 1                        | 9                  | ** ** |
-+---------------------------------+--------------------------+--------------------+-------+
-| **Probenvolumen in m³**         | 0,46                     | 0,009              | ** ** |
-+---------------------------------+--------------------------+--------------------+-------+
-| **Verwendeter Grobschlag in     | 90/125                   | 32/63              | ** ** |
-| mm**                            |                          |                    |       |
-+---------------------------------+--------------------------+--------------------+-------+
-| **Feinsubstratanteil am         | 25                       | 25                 | ** ** |
-| Gesamtvolumen in Vol.-%**       |                          |                    |       |
-+---------------------------------+--------------------------+--------------------+-------+
-| **Trockenrohdichte in t/m³**    | 2,07                     | 2,01 ± 0,02        | 0,06  |
-+---------------------------------+--------------------------+--------------------+-------+
-| **Gesamtporenvolumen in         | 27,1                     | 26,2 ± 1,0         | 0,9   |
-| Vol.-%**                        |                          |                    |       |
-+---------------------------------+--------------------------+--------------------+-------+
-| **Ges. hydr. Leitfähigkeit in   | 33,0                     | 36,9 ± 6,5         | 3,9   |
-| m/d**                           |                          |                    |       |
-+---------------------------------+--------------------------+--------------------+-------+
-| **Wasserkapazität 2h in         | 7,6                      | 9,7 ± 0,3          | 2,1   |
-| Vol.-%**                        |                          |                    |       |
-+---------------------------------+--------------------------+--------------------+-------+
-| **Wasserkapazität 48h           | 6,5                      | 6,1 ± 0,9          | 0,4   |
-| (Großlysimeter) bzw.**          |                          |                    |       |
-|                                 |                          |                    |       |
-| **Wasseranteil bei pF 1,8       |                          |                    |       |
-| (Mikrolysimeter) in Vol.-%**    |                          |                    |       |
-+---------------------------------+--------------------------+--------------------+-------+
-| **Permanenter Welkepunkt in     | /                        | 1,08               | /     |
-| Vol.-%**                        |                          |                    |       |
-+---------------------------------+--------------------------+--------------------+-------+
+Versuchsbezeichnung | Großlysimeterversuch (2024) | Laborversuche (Mikrolysimeter, 2022) | ∆
+--------------------|------------------------------|--------------------------------------|---
+**Wiederholungen** | 1 | 9 |  
+**Probenvolumen in m³** | 0,46 | 0,009 |  
+**Verwendeter Grobschlag in mm** | 90/125 | 32/63 |  
+**Feinsubstratanteil am Gesamtvolumen in Vol.-%** | 25 | 25 |  
+**Trockenrohdichte in t/m³** | 2,07 | 2,01 ± 0,02 | 0,06
+**Gesamtporenvolumen in Vol.-%** | 27,1 | 26,2 ± 1,0 | 0,9
+**Ges. hydr. Leitfähigkeit in m/d** | 33,0 | 36,9 ± 6,5 | 3,9
+**Wasserkapazität 2 h in Vol.-%** | 7,6 | 9,7 ± 0,3 | 2,1
+**Wasserkapazität 48 h (Großlysimeter)** / **Wasseranteil bei pF 1,8 (Mikrolysimeter) in Vol.-%** | 6,5 | 6,1 ± 0,9 | 0,4
+**Permanenter Welkepunkt in Vol.-%** | / | 1,08 | /
 
 ### Beständigkeit / Langzeittests (JR ACS, LsW)
 
@@ -413,7 +343,7 @@ Großlysimeterversuch. Zusätzlich ist zu erwarten, dass das Vordringen
 der Baumwurzeln in das Struktursubstrat zu einer verbesserten
 Stabilisierung des Feinsubstrats im Skelettkörper führt.
 
-![](media/image40.png)
+![](assets/lsw_stufenweiser_grobporentanteil.png)
 
 **Abbildung 3:** **Stufenweiser Grobporenanteil im Laufe des Versuchs
 als Liniendiagramm; Die Punkte sind in der Mitte des jeweiligen
@@ -433,7 +363,7 @@ von durch Quarzmehl verschlossenen Porengängen geführt haben könnten.
 Bei Schwammstadtsystemen mit Wasseranstau sind in der Realität ähnliche
 Vorgänge denkbar.
 
-![](media/image50.png)![](media/image60.png)![](media/image70.png)
+![](assets/lsw_gesaettigte_leitfaehigkeit.png)
 
 **Abbildung 4: Gesättigte hydraulische Leitfähigkeit des untersuchten
 Struktursubstrats im Laufe des Versuchs**
