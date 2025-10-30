@@ -1,7 +1,7 @@
 
 ## Verwendete Substrate
 
-### Substrate zur Filterung (LsW)
+### Substrate zur Filterung
 
 !!! abstract
     Regenwasser von Verkehrsflächen muss vor der Versickerung je nach Flächenkategorie gereinigt werden. Natürliche und technische Bodenfilter nach ÖNORM B 2506-2 bzw. ÖWAV RB 45 können die üblichen Schadstoffe zurückhalten und erfüllen damit die Anforderungen des Grundwasserschutzes. Die direkte Einleitung in Baumscheiben rückt in engen Stadträumen in den Fokus, ist aber normativ (noch) nicht voll abgedeckt.
@@ -207,7 +207,6 @@ Substrat | Natürlicher Bodenfilter | Baumsubstrat (Variante 1)
     Ansprechpartner: 
 
     - [Land schafft Wasser](https://www.landschafftwasser.at/)
-    - [JR AquaConSol](https://www.jr-aquaconsol.at/)
     
 
 ### Überbaubare Substrate
@@ -319,7 +318,7 @@ Versuchsbezeichnung | Großlysimeterversuch (2024) | Laborversuche (Mikrolysimet
     
 
 
-### Beständigkeit / Langzeittests (JR ACS, LsW)
+### Beständigkeit / Langzeittests
 
 !!! abstract
     Im Großlysimeterversuch wurden wiederholte Wassereinträge und ein sehr hoher, für Graz hochgerechneter Partikeleintrag simuliert. Feinsubstrat wanderte dabei in tiefere Zonen, ohne die Gesamtfunktion merklich zu verschlechtern. Die gesättigte Durchlässigkeit blieb weitgehend erhalten, der Partikelrückhalt war sehr hoch (>99 %), sodass auch langfristig eine gute Funktionsfähigkeit des Struktursubstrats zu erwarten ist.
