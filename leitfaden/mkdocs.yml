@@ -14,13 +14,13 @@ markdown_extensions:
 
 plugins:
   - search
-  - enumerate-headings:
-      toc_depth: 3    # bis Ebene 3 nummerieren (ToC inkl.)
-      strict: true    # Fehler melden, wenn erste Überschrift nicht H1 ist
-      exclude: ["index.md",
-                "projektbeteiligte.md",
-                "kontakt.md",]
-      increment_across_pages: True
+#  - enumerate-headings:
+#      toc_depth: 0    # bis Ebene 3 nummerieren (ToC inkl.)
+#      strict: true    # Fehler melden, wenn erste Überschrift nicht H1 ist
+#      exclude: ["index.md",
+#                "projektbeteiligte.md",
+#                "kontakt.md",]
+#      increment_across_pages: True
 
 #extra:
 #  generator: false
@@ -32,7 +32,7 @@ nav:
   - Teil 1 - Strategie und Planung auf Stadtebene:
       - Ziele dezentraler Niederschlagswasserbewirtschaftung: teil11.md
       - Zielvorgaben in der Stadt Graz: teil12.md
-      - Berücksichtigung von Randbedingungen: teil13.md
+      - Blau-grüne Potentiale in Graz: teil11_blaugruene_potentiale.md
       - Wechselwirkungen zwischen verschiedenen Teilen der Infrastruktur: teil14.md
   - Teil 2 - Baumstandorte als Elemente der Regenwasserbewirtschaftung:
       - Funktionsweise / Grundprinzipien: teil21.md
