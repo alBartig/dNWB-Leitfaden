@@ -1,6 +1,4 @@
 
-## Verwendete Substrate
-
 ### Substrate zur Filterung
 
 !!! abstract
@@ -99,32 +97,29 @@ Infiltrationsrate im Laufe des Versuchs, wobei die Baumsubstratvariante
 den durchgeführten Versuchen finden sich im Bericht „Ermittlung der
 Filtereigenschaften von Stadtbaumsubstraten" vom Oktober 2023.
 
-**Tabelle 2: Ergebnisse zur Prüfung von Baumsubstratvarianten für die
+Tabelle 2: Ergebnisse zur Prüfung von Baumsubstratvarianten für die
 Verwendung als technisches Filtermaterial nach ÖNORM B 2506-3 (2018); n
 steht für die Anzahl an durchgeführten Messungen bzw. analysierten
-Proben**
+Proben
 
-Prüfung | Schwermetall | Einheit | n | Anforderung lt. ÖNORM B2506-3 (2018) | Baumsubstrat-variante 1 | Baumsubstrat-variante 2 | Baumsubstrat-variante 3
----------|---------------|----------|---|--------------------------------------|--------------------------|--------------------------|--------------------------
-**Trübung** |  | NTU | 1 | < 10 | **> 10** | **> 10** | **> 10**
-**Gesättigte hydraulische Leitfähigkeit** |  | m/s | > 5 | > 7,2 × 10⁻⁶ (0,6 l/m² min) | **3,5 × 10⁻⁵** | **4,1 × 10⁻⁴** | **4,0 × 10⁻⁴**
-**Infiltrationsrate** |  | m/s | > 5 | ≥ 1,0 × 10⁻⁵ | **2,4 × 10⁻⁵** | **8,6 × 10⁻⁵** | **8,5 × 10⁻⁵**
-**Abnahme der Infiltrationsrate** |  | % | > 5 | < 50 | **50,8** | **71,8** | **70,7**
-**Partikelrückhalt** |  | % | 27 | > 80 | **99,7** | **99,8** | **99,7**
-**Partikelremobilisierung** |  | mg | 3 | < 800 bzw. < 1600 | **31,0** | **< 5,4** | **< 8,2**
-**Mineralölrückhalt** |  | % | 12 | > 95 | **> 98** | **≥ 99** | **> 99**
-**Schwermetallrückhalt (Konzentrationsstufe 2)** – Pb | Pb | mg/l | 15 | < 0,0090 | **< 0,0020** | **< 0,0039** | **< 0,0032**
-**Schwermetallrückhalt (Konzentrationsstufe 2)** – Cu | Cu | % | 15 | > 80 | **> 98** | **> 82** | **> 82**
-**Schwermetallrückhalt (Konzentrationsstufe 2)** – Zn | Zn | % | 15 | > 50 | **> 99** | **> 93** | **> 93**
-**Schwermetallremobilisierung** – Cu | Cu | mg/l | 3 | < 0,05 | **< 0,50** | **< 0,50** | **< 0,50**
-**Schwermetallremobilisierung** – Zn | Zn | mg/l | 3 | < 0,50 | **< 1,00** | **< 0,20** | **< 1,00**
+Prüfung | Schwermetall | Einheit | n   | Anforderung lt. ÖNORM B2506-3 (2018) | Baumsubstrat-variante 1 | Baumsubstrat-variante 2 | Baumsubstrat-variante 3
+---------|---------------|----------|-----|-------------------------------------|-------------------------|-------------------------|--------------------------
+**Trübung** |  | NTU | 1   | < 10                                | **> 10 $^{2)}$**        | **> 10 $^{2)}$**            | **> 10 $^{2)}$**
+**Gesättigte hydraulische Leitfähigkeit** |  | m/s | > 5 | > 7,2 × 10⁻⁶ (0,6 l/m² min)         | **3,5 × 10⁻⁵ $^{1)}$**  | **4,1 × 10⁻⁴ $^{1)}$**      | **4,0 × 10⁻⁴ $^{1)}$**
+**Infiltrationsrate** |  | m/s | > 5 | ≥ 1,0 × 10⁻⁵                        | **2,4 × 10⁻⁵ $^{1)}$** | **8,6 × 10⁻⁵ $^{1)}$**      | **8,5 × 10⁻⁵ $^{1)}$**
+**Abnahme der Infiltrationsrate** |  | % | > 5 | < 50                                | **50,8 $^{2)}$**        | **71,8 $^{2)}$**            | **70,7 $^{2)}$**
+**Partikelrückhalt** |  | % | 27  | > 80                                | **99,7 $^{1)}$**        | **99,8 $^{1)}$**            | **99,7 $^{1)}$**
+**Partikelremobilisierung** |  | mg | 3   | < 800 bzw. < 1600                   | **31,0 $^{1)}$**        | **< 5,4 $^{1)}$**           | **< 8,2 $^{1)}$**
+**Mineralölrückhalt** |  | % | 12  | > 95                                | **> 98 $^{1)}$**        | **≥ 99 $^{1)}$**            | **> 99 $^{1)}$**
+**Schwermetallrückhalt (Konzentrationsstufe 2)** – Pb | Pb | mg/l | 15  | < 0,0090                            | **< 0,0020 $^{1)}$**    | **< 0,0039 $^{1)}$**        | **< 0,0032 $^{1)}$**
+**Schwermetallrückhalt (Konzentrationsstufe 2)** – Cu | Cu | % | 15  | > 80                                | **> 98 $^{1)}$**        | **> 82 $^{1)}$**            | **> 82 $^{1)}$**
+**Schwermetallrückhalt (Konzentrationsstufe 2)** – Zn | Zn | % | 15  | > 50                                | **> 99 $^{1)}$**        | **> 93 $^{1)}$**            | **> 93 $^{1)}$**
+**Schwermetallremobilisierung** – Cu | Cu | mg/l | 3   | < 0,05                              | **< 0,50 $^{3)}$**      | **< 0,50 $^{3)}$**          | **< 0,50 $^{3)}$**
+**Schwermetallremobilisierung** – Zn | Zn | mg/l | 3   | < 0,50                              | **< 1,00 $^{3)}$**      | **< 0,20 $^{1)}$**          | **< 1,00 $^{3)}$**
 
-
-Anforderungen der ÖNORM B 2506-3 werden erfüllt
-
-Anforderungen der ÖNORM B 2506-3 werden nicht erfüllt
-
-Aufgrund von zu hohen Bestimmungsgrenzen keine klare Aussage möglich
+$^{1)}$ Anforderungen der ÖNORM B 2506-3 werden erfüllt,
+$^{2)}$ Anforderungen der ÖNORM B 2506-3 werden nicht erfüllt,
+$^{3)}$ Aufgrund von zu hohen Bestimmungsgrenzen keine klare Aussage möglich
 
 Die Versuchsbeschreibung in ÖNORM B2506-3 (2018) lässt darauf schließen,
 dass bei der Erstellung der Norm Pflanzsubstrate als Filtermaterialien
@@ -186,9 +181,9 @@ Wurzelraum zu gewährleisten. Detailliertere Informationen können dem
 Bericht „Hydrologische Charakterisierung der Substrate" vom August 2022
 entnommen werden. 
 
-**Tabelle 3: Bodenhydrologische und bodenphysikalische Eigenschaften
+Tabelle 3: Bodenhydrologische und bodenphysikalische Eigenschaften
 eines Bodenfiltersubstrats sowie eines nicht überbaubaren Baumsubstrats
-unter Angabe des Mittelwerts und der Standardabweichung.**
+unter Angabe des Mittelwerts und der Standardabweichung.
 
 Substrat | Natürlicher Bodenfilter | Baumsubstrat (Variante 1)
 ----------|-------------------------|----------------------------
@@ -266,8 +261,7 @@ Informationen zu den Versuchen finden sich in den Berichten
 „Großlysimeter -- Schwammstadtsubstrat" vom Juni 2024.
 
 Generell weist das untersuchte Struktursubstrat im Vergleich zu
-natürlichen Böden bzw. zu nicht überbaubaren Baumsubstraten (siehe Tab.
-3) eine höhere gesättigte hydraulische Leitfähigkeit sowie eine höhere
+natürlichen Böden bzw. zu nicht überbaubaren Baumsubstraten (siehe Tab.3) eine höhere gesättigte hydraulische Leitfähigkeit sowie eine höhere
 Luftkapazität auf (siehe Tab. 4). Dies ist vor allem für die Funktion
 des Struktursubstrats als Regenwasserretentionsraum und für eine
 ausreichende Versorgung der Baumwurzeln mit Sauerstoff relevant. Die
@@ -289,11 +283,11 @@ nicht überbaubaren Baumsubstraten bereitzustellen, um insbesondere in
 den ersten Standjahren optimale Wuchsbedingungen für die Stadtbäume zu
 schaffen.
 
-**Tabelle 4: Vergleich zweier Untersuchungsmethoden zur Bestimmung der
+Tabelle 4: Vergleich zweier Untersuchungsmethoden zur Bestimmung der
 bodenphysikalischen und bodenhydrologischen Eigenschaften des
 Schwammstadtsubstrats; ∆ steht für die Differenz zwischen den
 Einzelwerten des Großlysimeterversuchs und den Mittelwerten der
-Mikrolysimeterversuche.**
+Mikrolysimeterversuche.
 
 Versuchsbezeichnung | Großlysimeterversuch (2024) | Laborversuche (Mikrolysimeter, 2022) | ∆
 --------------------|------------------------------|--------------------------------------|---
@@ -371,9 +365,9 @@ Stabilisierung des Feinsubstrats im Skelettkörper führt.
 
 ![](assets/lsw_stufenweiser_grobporentanteil.png)
 
-**Abbildung 3:** **Stufenweiser Grobporenanteil im Laufe des Versuchs
+Abbildung 3:** **Stufenweiser Grobporenanteil im Laufe des Versuchs
 als Liniendiagramm; Die Punkte sind in der Mitte des jeweiligen
-Substratbereichs aufgetragen.**
+Substratbereichs aufgetragen.
 
 Die gesättigte Durchlässigkeit nahm durch die Wassereinträge nicht ab,
 auch erhebliche Partikeleinträge führten nur zu einer leichten Abnahme
@@ -391,8 +385,8 @@ Vorgänge denkbar.
 
 ![](assets/lsw_gesaettigte_leitfaehigkeit.png)
 
-**Abbildung 4: Gesättigte hydraulische Leitfähigkeit des untersuchten
-Struktursubstrats im Laufe des Versuchs**
+Abbildung 4: Gesättigte hydraulische Leitfähigkeit des untersuchten
+Struktursubstrats im Laufe des Versuchs
 
 Die analysierten Wasserproben überschritten nur während der
 Einschlämmvorgänge die Schwellenwerte der QZV Chemie GW (2010) und der

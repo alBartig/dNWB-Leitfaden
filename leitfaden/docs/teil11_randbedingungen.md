@@ -1,26 +1,8 @@
 ## Ziele dezentraler Niederschlagswasserbewirtschaftung
 
-Die dezentrale Niederschlagswasserbewirtschaftung verfolgt das Ziel,
-Niederschlagswasser vor Ort zu bewirtschaften und dabei natürliche
-Wasser- und Klimakreisläufe zu fördern. Durch die zunehmende
-Urbanisierung und den Klimawandel gewinnen diese Maßnahmen in Städten
-immer mehr an Bedeutung. Statt das Niederschlagswasser lediglich über
-Kanalisationen abzuleiten, setzt die dezentrale
-Niederschlagswasserbewirtschaftung auf Lösungen, bei denen das Wasser
-direkt am Ort des Niederschlags infiltriert, gespeichert oder verdunstet
-wird. Hierzu zählen beispielsweise begrünte Dächer, Rigolen, Mulden und
-Versickerungsflächen. Diese Ansätze bieten vielfältige Vorteile: sie
-entlasten das städtische Kanalsystem, fördern eine natürliche
-Grundwasserneubildung und wirken gleichzeitig dem Risiko von
-Überschwemmungen durch Starkregenereignisse entgegen. Zudem tragen sie
-durch Verdunstung und Verschattung zur Kühlung der Stadt bei und
-reduzieren damit das Auftreten urbaner Hitzeinseln. Durch eine solche
-naturnahe Bewirtschaftung des Regenwassers wird die Wasserbilanz der
-Städte verbessert, da mehr Wasser vor Ort bleibt und weniger ungenutzt
-in Flüsse und Kanäle abgeleitet wird. Die Ziele der dezentralen
-Niederschlagswasserbewirtschaftung sind also weitreichend und verbinden
-infrastrukturelle, ökologische und klimatische Aspekte zu einem
-nachhaltigen urbanen Wassermanagement.
+!!! abstract 
+    Die dezentrale Niederschlagswasserbewirtschaftung verfolgt das Ziel, Niederschlagswasser vor Ort zu bewirtschaften und dabei natürliche Wasser- und Klimakreisläufe zu fördern. Durch die zunehmende Urbanisierung und den Klimawandel gewinnen diese Maßnahmen in Städten immer mehr an Bedeutung. Statt das Niederschlagswasser lediglich über Kanalisationen abzuleiten, setzt die dezentrale Niederschlagswasserbewirtschaftung auf Lösungen, bei denen das Wasser direkt am Ort des Niederschlags infiltriert, gespeichert oder verdunstet wird. Hierzu zählen beispielsweise begrünte Dächer, Rigolen, Mulden und Versickerungsflächen. Diese Ansätze bieten vielfältige Vorteile: sie entlasten das städtische Kanalsystem, fördern eine natürliche Grundwasserneubildung und wirken gleichzeitig dem Risiko von Überschwemmungen durch Starkregenereignisse entgegen. Zudem tragen sie durch Verdunstung und Verschattung zur Kühlung der Stadt bei und reduzieren damit das Auftreten urbaner Hitzeinseln. Durch eine solche naturnahe Bewirtschaftung des Regenwassers wird die Wasserbilanz der Städte verbessert, da mehr Wasser vor Ort bleibt und weniger ungenutzt in Flüsse und Kanäle abgeleitet wird. Die Ziele der dezentralen Niederschlagswasserbewirtschaftung sind also weitreichend und verbinden infrastrukturelle, ökologische und klimatische Aspekte zu einem nachhaltigen urbanen Wassermanagement.
+
 
 ### Entlastung des Kanalsystems
 

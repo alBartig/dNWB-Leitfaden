@@ -11,8 +11,8 @@ aufzeigt (Krebs, 2016).
 ### Wasserqualität
 
 Erkenntnisse aus dem Endbericht „Naturnahe Regenwasserbewirtschaftung
-4.0 -- Handlungsempfehlungen für Graz und die Steiermark" ([SWW TU Graz,
-2022]{.mark}).
+4.0 -- Handlungsempfehlungen für Graz und die Steiermark" (SWW TU Graz,
+2022).
 
 Atmosphärische Deposition und Oberflächenabfluss können das
 Niederschlagswasser stofflich belasten und die Umwelt beeinträchtigen.
@@ -26,8 +26,7 @@ physikalische Eigenschaften, vorhandene Messdaten und Rückhalt in dNWBs
 recherchiert. Dabei konnten nicht immer alle Informationen zu den 53
 Parametern erruiert werden. Genaue Informationen zu den einzelnen
 Stoffen können im Endbericht „Naturnahe Regenwasserbewirtschaftung 4.0
--- Handlungsempfehlungen für Graz und die Steiermark" ([SWW TU Graz,
-2022]{.mark}) nachgelesen werden.
+-- Handlungsempfehlungen für Graz und die Steiermark" (SWW TU Graz, 2022) nachgelesen werden.
 
 Ein wesentlicher Aspekt in diesem Projekt war die stoffliche Belastung
 von Dachwässern. Der Leitfaden vom Amt der Oö. Landesregierung „zur
@@ -61,7 +60,7 @@ Säulenversuche beauftragt, bei denen nach ÖNORM B 2506-3 unter anderem
 der Rückhalt von Blei, Kupfer und Zink untersucht wird. Soll das
 Substrat auch als Grundwasserschutz dienen, wäre es empfehlenswert den
 Schadstoffrückhalt von den Parametern der QZV Chemie GW zu untersuchen
-([Anhang F im Endbericht]{.mark}). Die Liste mit den 61 Parametern deckt
+(Anhang F im Endbericht). Die Liste mit den 61 Parametern deckt
 sich diesbezüglich mit folgenden Parametern: Blei, Cadmium, Chrom,
 Kupfer, Nickel, Quecksilber und PAK. In einem noch unveröffentlichten
 Bericht (Allabashi et al., 2022) wurden, bezüglich Schadstoffrückhalt im
@@ -76,123 +75,40 @@ nur die Parameter nach ÖNORM B 2506-3 untersucht werden.
 ###  Welche Maßnahmen stehen zur Verfügung?
 
 Für die Erstellung der Maßnahmenkarte wurden folgende mögliche Maßnahmen
-betrachtet:
+betrachtet (Tabelle 3-1):
 
-  ----------------------------------------------------------------------------------
-  Versickerungssystem          Kürzel     Kurzbeschreibung
-  ---------------------------- ---------- ------------------------------------------
-  Flächenversickerung          FV         Die Flächenversickerung eignet sich für
-                                          Oberflächen, bei denen die
-                                          Versickerungsleistung größer ist, als der
-                                          anfallende Regenabfluss.
+Tabelle 3‑1: Mögliche Maßnahmen für die Maßnahmenkarte.
 
-  Muldenversickerung           MV         Bei der Muldenversickerung kommt eine
-                                          Mulde zur Zwischenspeicherung zum Einsatz.
-                                          Die Einstautiefe beträgt in der Regel
-                                          weniger als 0,3 m und ein Einstau darf
-                                          maximal 24 h dauern.
-
-  Beckenversickerung           BV         Versickerungsbecken haben eine
-                                          Einstautiefe von mehr als 0,3 m und der
-                                          Einstau darf 24 h überschreiten. Aufgrund
-                                          von Ertrinkungsgefahr sind
-                                          Versickerungsbecken einzuzäunen. Sie
-                                          zählen aufgrund ihrer Größe eher zu den
-                                          zentralen Maßnahmen.
-
-  Rigolen- oder                RV         Bei der Rigolenversickerung wird Wasser in
-  Rohrversickerung                        einen unterirdischen Retentionsraum aus
-                                          Kies, Waben o.ä. porösem Material
-                                          eingebracht, um dort zu versickern. Bei
-                                          der Rohrversickerung wird in die
-                                          Rigolenpackung zur schnelleren Verteilung
-                                          in der Rigole ein Verteilrohr eingebaut.
-
-  Schachtversickerung          SV         Bei der Schachtversickerung erfolgt die
-                                          Versickerung über Einleitung in einen
-                                          Schacht. Dieser Schacht ist am Mantel
-                                          und/oder an der Schachtsohle durchlässig
-                                          sein, um das Wasser an den durchlässigen
-                                          Untergrund abzugeben.
-
-  Mulden-Rigol-System          MR         Das Mulden-Rigol-Element besteht aus einem
-                                          Mulden-Element an der Oberfläche mit einer
-                                          darunterliegenden Rigole. Das
-                                          Mulden-Rigol-System besteht aus mehreren,
-                                          in Reihe geschalteten
-                                          Mulden-Rigol-Elementen. Die Mulden-Rigole
-                                          kombiniert die Vorteile der Retention und
-                                          Reinigung des Regenwassers an der
-                                          Oberfläche mit der erhöhten Sickerleistung
-                                          der Rigole.
-
-  Retentionsraumversickerung   RERV       Die Retentionsraumversickerung ist ein
-                                          oberflächig angeordnetes System, das
-                                          Reinigung, Speicherung und Versickerung
-                                          vereint. Niederschlagswässer werden in
-                                          einen, zum Untergrund abgedichteten,
-                                          Speicherteich oder Graben eingeleitet.
-                                          Überschreitet der Wasserpegel die
-                                          Dauerstaulinie versickert das Wasser in
-                                          der angeschlossenen Mulde in den
-                                          Untergrund.
-
-  Sonstige Maßnahmen           Sonstige   Unter sonstigen Maßnahmen werden
-                                          alternative Maßnahmen wie Gründächer und
-                                          Regenwassernutzung zusammengefasst.
-  ----------------------------------------------------------------------------------
+| Versickerungssystem            | Kürzel | Kurzbeschreibung |
+|--------------------------------| --- | --- |
+| Flächenversickerung            | FV | Die Flächenversickerung eignet sich für Oberflächen, bei denen die Versickerungsleistung größer ist, als der anfallende Regenabfluss. |
+| Muldenversickerung             | MV | Bei der Muldenversickerung kommt eine Mulde zur Zwischenspeicherung zum Einsatz. Die Einstautiefe beträgt in der Regel weniger als 0,3 m und ein Einstau darf maximal 24 h dauern. |
+| Beckenversickerung             | BV | Versickerungsbecken haben eine Einstautiefe von mehr als 0,3 m und der Einstau darf 24 h überschreiten. Aufgrund von Ertrinkungsgefahr sind Versickerungsbecken einzuzäunen. Sie zählen aufgrund ihrer Größe eher zu den zentralen Maßnahmen. |
+| Rigolen- oder Rohrversickerung | RV | Bei der Rigolenversickerung wird Wasser in einen unterirdischen Retentionsraum aus Kies, Waben o.ä. porösem Material eingebracht, um dort zu versickern. Bei der Rohrversickerung wird in die Rigolenpackung zur schnelleren Verteilung in der Rigole ein Verteilrohr eingebaut. |
+| Schachtversickerung            | SV | Bei der Schachtversickerung erfolgt die Versickerung über Einleitung in einen Schacht. Dieser Schacht ist am Mantel und/oder an der Schachtsohle durchlässig sein, um das Wasser an den durchlässigen Untergrund abzugeben. |
+| Mulden-Rigol-System            | MR | Das Mulden-Rigol-Element besteht aus einem Mulden-Element an der Oberfläche mit einer darunterliegenden Rigole. Das Mulden-Rigol-System besteht aus mehreren, in Reihe geschalteten Mulden-Rigol-Elementen. Die Mulden-Rigole kombiniert die Vorteile der Retention und Reinigung des Regenwassers an der Oberfläche mit der erhöhten Sickerleistung der Rigole. |
+| Retentionsraumversickerung     | RERV | Die Retentionsraumversickerung ist ein oberflächig angeordnetes System, das Reinigung, Speicherung und Versickerung vereint. Niederschlagswässer werden in einen, zum Untergrund abgedichteten, Speicherteich oder Graben eingeleitet. Überschreitet der Wasserpegel die Dauerstaulinie versickert das Wasser in der angeschlossenen Mulde in den Untergrund. |
+| Sonstige Maßnahmen             | Sonstige | Unter sonstigen Maßnahmen werden alternative Maßnahmen wie Gründächer und Regenwassernutzung zusammengefasst. |
+  
 
 ### Wo können welche Maßnahmen umgesetzt werden?
 
 Zur Erstellung der Maßnahmenkarte wurden verschiedene Randbedingungen
-berücksichtigt. Die berücksichtigten Randbedingungen sind in Tabelle 3‑1
+berücksichtigt. Die berücksichtigten Randbedingungen sind in Tabelle 3‑2
 gelistet und beschrieben.
 
-+------------------------+----------------------------------------------+
-| Datengrundlage &       | Beschreibung                                 |
-| Quelle                 |                                              |
-+:=======================+==============================================+
-| Versiegelung /         | Über die Versiegelung und Landnutzung wird   |
-| Landnutzung            | die für naturnahe Regenwasserbewirtschaftung |
-|                        | zur Verfügung stehende Fläche quantifiziert  |
-+------------------------+----------------------------------------------+
-| Bodendurchlässigkeit   | Zur Beurteilung der Eignung verschiedener    |
-|                        | Versickerungsmaßnahmen wird die              |
-| Themenkarten Baugrund  | Durchlässigkeit des Bodens herangezogen und  |
-| Graz                   | in 3 Kategorien eingeteilt: 1. Versickerung  |
-|                        | wahrscheinlich möglich, 2. Versickerung      |
-|                        | wahrscheinlich möglich, 3. Versickerung      |
-|                        | wahrscheinlich nicht möglich.                |
-+------------------------+----------------------------------------------+
-| Baurisiko              | Das Baurisiko beschreibt qualitativ die      |
-|                        | Erdrutschgefährdung durch gestörte           |
-| Themenkarten Baugrund  | geologische Untergrundverhältnisse.          |
-| Graz                   |                                              |
-+------------------------+----------------------------------------------+
-| Hangneigung            | Ungünstige Kombinationen aus Hangneigung und |
-|                        | Bodenverhältnissen können zu Hangvernässung, |
-|                        | Rutschung und Quellaustritten durch          |
-|                        | Schichtenwasser führen.                      |
-+------------------------+----------------------------------------------+
-| Mächtigkeit der        | Zwischen Grundwasserleiter und Oberfläche    |
-| Deckschicht            | befindet sich in der Regel eine bindige      |
-|                        | Deckschicht und darüber anthropogene         |
-|                        | Anschüttungen. Die Mächtigkeit der bindigen  |
-|                        | Deckschicht hat großen Einfluss auf die      |
-|                        | Möglichkeiten zur Grundwasseranreicherung.   |
-+------------------------+----------------------------------------------+
-| Grundwasserflurabstand | Um eine ausreichende Reinigung des           |
-|                        | Niederschlagswässer zu gewährleisten, ist    |
-|                        | eine ausreichende Sickerstrecke notwendig.   |
-|                        | Hierbei soll 1 m nicht unterschritten        |
-|                        | werden.                                      |
-+------------------------+----------------------------------------------+
-| Grundwasserschutzzonen | In Grundwasserschutzzonen ist die            |
-|                        | Versickerung nicht oder nur bedingt          |
-|                        | zulässig.                                    |
-+------------------------+----------------------------------------------+
+Tabelle 3‑2: In der Maßnahmenkarte berücksichtigte Randbedingungen.
 
-: Tabelle 3‑1: In der Maßnahmenkarte berücksichtigte Randbedingungen.
+| Datengrundlage & Quelle | Beschreibung |
+| --- | --- |
+| Versiegelung / Landnutzung | Über die Versiegelung und Landnutzung wird die für naturnahe Regenwasserbewirtschaftung zur Verfügung stehende Fläche quantifiziert |
+| BodendurchlässigkeitThemenkarten Baugrund Graz | Zur Beurteilung der Eignung verschiedener Versickerungsmaßnahmen wird die Durchlässigkeit des Bodens herangezogen und in 3 Kategorien eingeteilt: 1. Versickerung wahrscheinlich möglich, 2. Versickerung wahrscheinlich möglich, 3. Versickerung wahrscheinlich nicht möglich. |
+| BaurisikoThemenkarten Baugrund Graz | Das Baurisiko beschreibt qualitativ die Erdrutschgefährdung durch gestörte geologische Untergrundverhältnisse. |
+| Hangneigung | Ungünstige Kombinationen aus Hangneigung und Bodenverhältnissen können zu Hangvernässung, Rutschung und Quellaustritten durch Schichtenwasser führen. |
+| Mächtigkeit der Deckschicht | Zwischen Grundwasserleiter und Oberfläche befindet sich in der Regel eine bindige Deckschicht und darüber anthropogene Anschüttungen. Die Mächtigkeit der bindigen Deckschicht hat großen Einfluss auf die Möglichkeiten zur Grundwasseranreicherung. |
+| Grundwasserflurabstand | Um eine ausreichende Reinigung des Niederschlagswässer zu gewährleisten, ist eine ausreichende Sickerstrecke notwendig. Hierbei soll 1 m nicht unterschritten werden. |
+| Grundwasserschutzzonen | In Grundwasserschutzzonen ist die Versickerung nicht oder nur bedingt zulässig. |
+
 
 Die Randbedingungen wurden in einer Entscheidungsmatrix, die dem Bericht
 zur Erstellung der Maßnahmenkarte entnommen werden kann, kombiniert und
@@ -201,5 +117,7 @@ Auflösung von 100 m \* 100 m, die für die jeweilige Rasterzelle mögliche
 Grundwasseranreicherungsmaßnahmen zeigt. Die Karte wird klein in
 Abbildung 1 dargestellt und kann im Anhang gefunden werden.
 
-![[]{#_Ref164688800 .anchor}Abbildung 1: Maßnahmenkarte zur
-Grundwasseranreicherung in Graz](media/image3.png)
+![](assets/Abbildung 1_Maßnahmenkarte zur Grundwasseranreicherung in Graz.png)
+---
+Abbildung 1: Maßnahmenkarte zur Grundwasseranreicherung in Graz
+
