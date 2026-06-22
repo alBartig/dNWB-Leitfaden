@@ -5,12 +5,12 @@
 !!! abstract 
     Bauprojekte müssen in Graz einen Grünflächenfaktor zwischen 0,4 und 0,8 einhalten. Dieser beschreibt das Verhältnis vegetationsbedeckter Flächen zur Bauplatzfläche und kann über Dachbegrünungen, Wasserflächen oder Baumpflanzungen erreicht werden. --- [Verordnung](https://www.graz.at/cms/beitrag/10412985/9229427/Gruenflaechenfaktor_Verordnung.html?gad_source=1&gad_campaignid=23232675352&gclid=CjwKCAiA55rJBhByEiwAFkY1QP-PJjEIgGhf7CQis5nXtjhln06jE3EuJTfDG6AkR7qGWeWGB44VuRoCkmQQAvD_BwE)
 
-Mit dem Grünflächenfaktor schreibt die Stadt Graz Bauherren ein
+Mit dem Grünflächenfaktor schreibt die Stadt Graz Bauverantwortliche ein
 Verhältnis zwischen der mit Vegetation bedeckten Fläche zur
 Bauplatzfläche vor. Der geforderte Grünflächenfaktor kann über
 Vegetationsflächen, Wasserflächen, Dachbegrünungen und Baumpflanzungen
 in verschiedenen Gewichtungen bedient werden. Er ist eine für
-Bauprojekte einzuhaltende Randbedingung. Der eizuhaltende
+Bauprojekte einzuhaltende Randbedingung. Der einzuhaltende
 Grünflächenfaktor ist prinzipiell abhängig von der Lage des Baugrundes
 im Räumlichen Leitbild 1.0 und bewegt sich zwischen 0,4 und 0,8. Weitere
 Charakteristiken können eine Rolle spielen. ([Grünflächenfaktor
@@ -28,8 +28,8 @@ gebracht werden. Zugrunde gelegt wird im gesamten Gebiet der Stadt Graz
 ein 30-jährliches Regenereignis. Die Bemessung der Retentions- und
 Versickerungsanalagen erfolgt entsprechend dem Stand der Technik nach
 der ÖNORM B 2506-1, den ÖWAV-Regelblättern 35 und 45 und dem DWA
-Arbeitsblatt A-138. Ist die örtliche Versickerung, zum Beispiel auf
-Grund nicht sickerfähigen Untergrundes nicht möglich, sind Ausnahmen
+Arbeitsblatt A-138. Ist die örtliche Versickerung undurchführbar, z.B. auf
+Grund nicht sickerfähigen Untergrundes, sind Ausnahmen
 möglich. In diesem Fall muss eine alternative Entwässerung konzipiert
 werden, wie z.B. eine Einleitung in die Regen- oder
 Mischwasserkanalisation der Holding Graz.

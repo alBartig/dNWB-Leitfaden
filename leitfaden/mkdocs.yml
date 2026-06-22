@@ -8,14 +8,16 @@ theme:
 #    - content.footer
 
 markdown_extensions:
+  - attr_list
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - footnotes
 
 plugins:
   - search
 #  - enumerate-headings:
-#      toc_depth: 0    # bis Ebene 3 nummerieren (ToC inkl.)
+#      toc_depth: 3    # bis Ebene 3 nummerieren (ToC inkl.)
 #      strict: true    # Fehler melden, wenn erste Überschrift nicht H1 ist
 #      exclude: ["index.md",
 #                "projektbeteiligte.md",
@@ -32,18 +34,19 @@ nav:
   - Teil 1 - Strategie und Planung auf Stadtebene:
       - Ziele dezentraler Niederschlagswasserbewirtschaftung: teil11_randbedingungen.md
       - Zielvorgaben in der Stadt Graz: teil12.md
-      - Wasserwirtschaftliche Grundlagen – Wasserqualität: teil123.md
-      - Wasserwirtschaftliche Grundlagen – Hydraulik und Hydrologie: teil1234.md
+      - Hintergrund - Wasserqualität: teil123.md
+      - Hintergrund - Hydraulik und Hydrologie: teil1234.md
       - Blau-grüne Potentiale in Graz: teil11_blaugruene_potentiale.md
+      - Was kann erreicht werden?: teil15.md
       - Wechselwirkungen zwischen verschiedenen Teilen der Infrastruktur: teil14.md
   - Teil 2 - Baumstandorte als Elemente der Regenwasserbewirtschaftung:
-      - Funktionsweise / Grundprinzipien: teil21.md
-      - Verwendete Substrate: teil22.md
-      - Bestimmung des Schadstoffrückhalts (Säulenversuche): teil23.md
-      - Standardisierbare Fertigationstechniken bei der Baumpflanzung: teil24.md
+      - Ein Blick in das (virtuelle) Innere: teil21.md
+      - Substrate für Baumrigolen: teil22.md
+      - Schadstoffrückhalt in Baumrigolen: teil23.md
+      - Fertigationstechniken bei der Baumpflanzung: teil24.md
       #- Element Umgebung: teil23.md
   - Teil 3 - Konzept und Planung:
-      - Dimensionierung Regularien: teil3.md
+      - Normen und Gesetze: teil3.md
 #      - Baumrigolen: teil35.md
 #      - Bewertung der Potenziale: teil36.md
       - Regelung zum Untergrund: teil33.md

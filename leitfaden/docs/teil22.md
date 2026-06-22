@@ -86,14 +86,14 @@ Alle drei untersuchten Baumsubstratvarianten erfüllen die in ÖNORM B
 2506-3 (2018) festgelegten Anforderungen hinsichtlich des Rückhalts der
 Schadstoffe. Auch die gesättigte hydraulische Leitfähigkeit sowie die
 Infiltrationsrate zu Beginn der Versuche aller Substratvarianten
-entsprechen der Norm (siehe Tab. 2). Hohe Chloridkonzentrationen in den
+entsprechen der Norm (siehe Tabelle 2). Hohe Chloridkonzentrationen in den
 Proben zur Schwermetallremobilisierung führten bei der Laboranalyse zu
 hohen Bestimmungsgrenzen für die untersuchten
 Schwermetallkonzentrationen, weshalb zur Schwermetallremobilisierung
 keine Aussage getroffen werden kann. Nicht erfüllt werden die
 Anforderungen bezüglich der anfänglichen Trübung, sowie der Abnahme der
 Infiltrationsrate im Laufe des Versuchs, wobei die Baumsubstratvariante
-1 diese nur knapp nicht erfüllt (siehe Tab. 2). Weitere Informationen zu
+1 diese nur knapp nicht erfüllt (siehe Tabelle 2). Weitere Informationen zu
 den durchgeführten Versuchen finden sich im Bericht „Ermittlung der
 Filtereigenschaften von Stadtbaumsubstraten" vom Oktober 2023.
 
@@ -103,23 +103,23 @@ steht für die Anzahl an durchgeführten Messungen bzw. analysierten
 Proben
 
 Prüfung | Schwermetall | Einheit | n   | Anforderung lt. ÖNORM B2506-3 (2018) | Baumsubstrat-variante 1 | Baumsubstrat-variante 2 | Baumsubstrat-variante 3
----------|---------------|----------|-----|-------------------------------------|-------------------------|-------------------------|--------------------------
-**Trübung** |  | NTU | 1   | < 10                                | **> 10 $^{2)}$**        | **> 10 $^{2)}$**            | **> 10 $^{2)}$**
-**Gesättigte hydraulische Leitfähigkeit** |  | m/s | > 5 | > 7,2 × 10⁻⁶ (0,6 l/m² min)         | **3,5 × 10⁻⁵ $^{1)}$**  | **4,1 × 10⁻⁴ $^{1)}$**      | **4,0 × 10⁻⁴ $^{1)}$**
-**Infiltrationsrate** |  | m/s | > 5 | ≥ 1,0 × 10⁻⁵                        | **2,4 × 10⁻⁵ $^{1)}$** | **8,6 × 10⁻⁵ $^{1)}$**      | **8,5 × 10⁻⁵ $^{1)}$**
-**Abnahme der Infiltrationsrate** |  | % | > 5 | < 50                                | **50,8 $^{2)}$**        | **71,8 $^{2)}$**            | **70,7 $^{2)}$**
-**Partikelrückhalt** |  | % | 27  | > 80                                | **99,7 $^{1)}$**        | **99,8 $^{1)}$**            | **99,7 $^{1)}$**
-**Partikelremobilisierung** |  | mg | 3   | < 800 bzw. < 1600                   | **31,0 $^{1)}$**        | **< 5,4 $^{1)}$**           | **< 8,2 $^{1)}$**
-**Mineralölrückhalt** |  | % | 12  | > 95                                | **> 98 $^{1)}$**        | **≥ 99 $^{1)}$**            | **> 99 $^{1)}$**
-**Schwermetallrückhalt (Konzentrationsstufe 2)** – Pb | Pb | mg/l | 15  | < 0,0090                            | **< 0,0020 $^{1)}$**    | **< 0,0039 $^{1)}$**        | **< 0,0032 $^{1)}$**
-**Schwermetallrückhalt (Konzentrationsstufe 2)** – Cu | Cu | % | 15  | > 80                                | **> 98 $^{1)}$**        | **> 82 $^{1)}$**            | **> 82 $^{1)}$**
-**Schwermetallrückhalt (Konzentrationsstufe 2)** – Zn | Zn | % | 15  | > 50                                | **> 99 $^{1)}$**        | **> 93 $^{1)}$**            | **> 93 $^{1)}$**
-**Schwermetallremobilisierung** – Cu | Cu | mg/l | 3   | < 0,05                              | **< 0,50 $^{3)}$**      | **< 0,50 $^{3)}$**          | **< 0,50 $^{3)}$**
-**Schwermetallremobilisierung** – Zn | Zn | mg/l | 3   | < 0,50                              | **< 1,00 $^{3)}$**      | **< 0,20 $^{1)}$**          | **< 1,00 $^{3)}$**
+---------|---------------|----------|-----|-------------------------------------|-------------------------|------------------------|--------------------------
+**Trübung** |  | NTU | 1   | < 10                                | **> 10 \*\***           | **> 10 \*\***          | **> 10 \*\***
+**Gesättigte hydraulische Leitfähigkeit** |  | m/s | > 5 | > 7,2 × 10⁻⁶ (0,6 l/m² min)         | **3,5 × 10⁻⁵ \***       | **4,1 × 10⁻⁴ \***      | **4,0 × 10⁻⁴ \***
+**Infiltrationsrate** |  | m/s | > 5 | ≥ 1,0 × 10⁻⁵                        | **2,4 × 10⁻⁵ \***       | **8,6 × 10⁻⁵ \***    | **8,5 × 10⁻⁵ \***
+**Abnahme der Infiltrationsrate** |  | % | > 5 | < 50                                | **50,8 \*\***        | **71,8 \*\***          | **70,7 \*\***
+**Partikelrückhalt** |  | % | 27  | > 80                                | **99,7 \***        | **99,8 \***          | **99,7 \***
+**Partikelremobilisierung** |  | mg | 3   | < 800 bzw. < 1600                   | **31,0 \***        | **< 5,4 \***         | **< 8,2 \***
+**Mineralölrückhalt** |  | % | 12  | > 95                                | **> 98 \***        | **≥ 99 \***          | **> 99 \***
+**Schwermetallrückhalt (Konzentrationsstufe 2)** – Pb | Pb | mg/l | 15  | < 0,0090                            | **< 0,0020 \***    | **< 0,0039 \***      | **< 0,0032 \***
+**Schwermetallrückhalt (Konzentrationsstufe 2)** – Cu | Cu | % | 15  | > 80                                | **> 98 \***        | **> 82 \***          | **> 82 \***
+**Schwermetallrückhalt (Konzentrationsstufe 2)** – Zn | Zn | % | 15  | > 50                                | **> 99 \***        | **> 93 \***          | **> 93 \***
+**Schwermetallremobilisierung** – Cu | Cu | mg/l | 3   | < 0,05                              | **< 0,50 \*\*\***      | **< 0,50 \*\*\***        | **< 0,50 \*\*\***
+**Schwermetallremobilisierung** – Zn | Zn | mg/l | 3   | < 0,50                              | **< 1,00 \*\*\***      | **< 0,20 \***        | **< 1,00 \*\*\***
 
-$^{1)}$ Anforderungen der ÖNORM B 2506-3 werden erfüllt,
-$^{2)}$ Anforderungen der ÖNORM B 2506-3 werden nicht erfüllt,
-$^{3)}$ Aufgrund von zu hohen Bestimmungsgrenzen keine klare Aussage möglich
+\* Anforderungen der ÖNORM B 2506-3 werden erfüllt  
+\*\* Anforderungen der ÖNORM B 2506-3 werden nicht erfüllt  
+\*\*\* Aufgrund von zu hohen Bestimmungsgrenzen keine klare Aussage möglich
 
 Die Versuchsbeschreibung in ÖNORM B2506-3 (2018) lässt darauf schließen,
 dass bei der Erstellung der Norm Pflanzsubstrate als Filtermaterialien
@@ -155,7 +155,7 @@ Bei Direkteinleitung von Straßenwässern in Baumscheiben würden dennoch
 Schadstoffe oberflächennah in den Wurzelraum gelangen, womit Stadtbäume
 in ihrem Wachstum beeinträchtigt werden könnten. Außerdem ist, wie auch
 bei anderen Filtersystemen ein notwendiger Austausch von Filtermaterial
-vorzusehen, was im Bereich des Wurzelraums eine praktische
+vorzusehen, was im Bereich des Wurzelraums eine
 Herausforderung darstellt. Denkbar wäre ein mehrschichtiger Aufbau in
 Baumscheiben, mit einer Filterschicht im oberen Bereich und einem auf
 optimiertes Baumwachstum im Sinne der FLL-Richtlinien (2010) ausgelegtem
@@ -167,7 +167,7 @@ Zusätzlich zu den Filterversuchen wurde die Baumsubstratvariante 1 im
 Labor hydrologisch charakterisiert. Zum direkten Vergleich wurde ein
 natürlicher Bodenfilter aus einem exemplarischen Sickerbecken im
 Leonhardgürtel ebenfalls bodenhydrologisch analysiert. Die Ergebnisse
-sind in der Tab. 3 dargestellt. Der natürliche Bodenfilter wurde mit
+sind in der Tabelle 3 dargestellt. Der natürliche Bodenfilter wurde mit
 Hilfe von Stechzylindern im HYPROP-Verfahren bestimmt, wobei ungestörte
 Bodenproben vor Ort entnommen wurden. Das Baumsubstrat (gestörte Proben)
 wurde aufgrund der gröberen Körnung mittels Multi-Step-Outflow-Verfahren
@@ -192,16 +192,14 @@ Substrat | Natürlicher Bodenfilter | Baumsubstrat (Variante 1)
 **Trockenrohdichte in t/m³** | 1,37 ± 0,05 | 1,72 ± 0,02
 **Gesamtporenvolumen in Vol.-%** | 44,4 ± 1,8 | 33,5 ± 0,3
 **Ges. hydr. Leitfähigkeit in m/d** | 2,7 ± 0,4 | 3,1 ± 0,2
-**Wasserkapazität 2 h in Vol.-%** | / | 29,8 ± 0,8
+**Wasserkapazität 2 h in Vol.-%** | – | 29,8 ± 0,8
 **Wasseranteil bei pF 1,8 in Vol.-%** | 35,5 ± 0,6 | 16,4 ± 0,7
 **Permanenter Welkepunkt in Vol.-%** | 16,2 ± 0,0 | 4,0 ± 0,1
 
 !!! info
     Für weitere Informationen siehe Bericht [Hydrologische Charakterisierung der Substrate von Land Schafft Wasser](...)
 
-    Ansprechpartner: 
-
-    - [Land schafft Wasser](https://www.landschafftwasser.at/)
+    Ansprechpartner: [Land schafft Wasser](https://www.landschafftwasser.at/)
     
 
 ### Überbaubare Substrate
@@ -236,9 +234,30 @@ feststellbar. Bei den Mikrolysimeterversuchen betrug die WK 2h 9,7 ± 0,3
 Vol.-%, während das Schwammstadtsubstrat beim Großlysimeterversuch eine
 Wasserkapazität (WK 2h) von 7,6 Vol.-% aufwies.
 
-Ein interessanter Vergleich ergibt sich aus der Wasserkapazität nach
-48 Stunden (WK 48h) beim Großlysimeterversuch und dem Wasseranteil bei
-einem pF-Wert von 1,8 bei den Mikrolysimeterversuchen. Beide Werte
+Tabelle 4: Vergleich zweier Untersuchungsmethoden zur Bestimmung der
+bodenphysikalischen und bodenhydrologischen Eigenschaften des
+Schwammstadtsubstrats; ∆ steht für die Differenz zwischen den
+Einzelwerten des Großlysimeterversuchs und den Mittelwerten der
+Mikrolysimeterversuche.
+
+Versuchsbezeichnung | Großlysimeterversuch (2024) | Laborversuche (Mikrolysimeter, 2022) | ∆
+--------------------|------------------------------|--------------------------------------|---
+**Wiederholungen** | 1 | 9 |  
+**Probenvolumen in m³** | 0,46 | 0,009 |  
+**Verwendeter Grobschlag in mm** | 90/125 | 32/63 |  
+**Feinsubstratanteil am Gesamtvolumen in Vol.-%** | 25 | 25 |  
+**Trockenrohdichte in t/m³** | 2,07 | 2,01 ± 0,02 | 0,06
+**Gesamtporenvolumen in Vol.-%** | 27,1 | 26,2 ± 1,0 | 0,9
+**Ges. hydr. Leitfähigkeit in m/d** | 33,0 | 36,9 ± 6,5 | 3,9
+**Wasserkapazität 2 h in Vol.-%** | 7,6 | 9,7 ± 0,3 | 2,1
+**Wasserkapazität 48 h (Großlysimeter)** / **Wasseranteil bei pF 1,8 (Mikrolysimeter) in Vol.-%** | 6,5 | 6,1 ± 0,9 | 0,4
+**Permanenter Welkepunkt in Vol.-%** | – | 1,08 | –
+
+
+
+Eine methodische Gegenüberstellung ergibt sich aus der Wasserkapazität nach 
+48 Stunden (WK 48h) beim Großlysimeterversuch und dem Wasseranteil bei einem 
+pF-Wert von 1,8 bei den Mikrolysimeterversuchen. Beide Werte
 können je nach Definition als Wasseranteil bei Feldkapazität bezeichnet
 werden (Scheffer et al., 1984; Wessolek et al., 2009), wobei sich die
 jeweilige Untersuchungsmethodik unterscheidet. Während bei Bestimmung
@@ -260,9 +279,10 @@ Informationen zu den Versuchen finden sich in den Berichten
 „Hydrologische Charakterisierung der Substrate" vom August 2022 sowie
 „Großlysimeter -- Schwammstadtsubstrat" vom Juni 2024.
 
-Generell weist das untersuchte Struktursubstrat im Vergleich zu
-natürlichen Böden bzw. zu nicht überbaubaren Baumsubstraten (siehe Tab.3) eine höhere gesättigte hydraulische Leitfähigkeit sowie eine höhere
-Luftkapazität auf (siehe Tab. 4). Dies ist vor allem für die Funktion
+Das untersuchte Struktursubstrat weist im Vergleich zu
+natürlichen Böden bzw. zu nicht überbaubaren Baumsubstraten (siehe Tabelle 3) 
+eine höhere gesättigte hydraulische Leitfähigkeit sowie eine höhere
+Luftkapazität auf (siehe Tabelle 4). Dies ist vor allem für die Funktion
 des Struktursubstrats als Regenwasserretentionsraum und für eine
 ausreichende Versorgung der Baumwurzeln mit Sauerstoff relevant. Die
 Fähigkeit Wasser pflanzenverfügbar zu speichern ist mit rund 6-7 Vol-%
@@ -283,24 +303,6 @@ nicht überbaubaren Baumsubstraten bereitzustellen, um insbesondere in
 den ersten Standjahren optimale Wuchsbedingungen für die Stadtbäume zu
 schaffen.
 
-Tabelle 4: Vergleich zweier Untersuchungsmethoden zur Bestimmung der
-bodenphysikalischen und bodenhydrologischen Eigenschaften des
-Schwammstadtsubstrats; ∆ steht für die Differenz zwischen den
-Einzelwerten des Großlysimeterversuchs und den Mittelwerten der
-Mikrolysimeterversuche.
-
-Versuchsbezeichnung | Großlysimeterversuch (2024) | Laborversuche (Mikrolysimeter, 2022) | ∆
---------------------|------------------------------|--------------------------------------|---
-**Wiederholungen** | 1 | 9 |  
-**Probenvolumen in m³** | 0,46 | 0,009 |  
-**Verwendeter Grobschlag in mm** | 90/125 | 32/63 |  
-**Feinsubstratanteil am Gesamtvolumen in Vol.-%** | 25 | 25 |  
-**Trockenrohdichte in t/m³** | 2,07 | 2,01 ± 0,02 | 0,06
-**Gesamtporenvolumen in Vol.-%** | 27,1 | 26,2 ± 1,0 | 0,9
-**Ges. hydr. Leitfähigkeit in m/d** | 33,0 | 36,9 ± 6,5 | 3,9
-**Wasserkapazität 2 h in Vol.-%** | 7,6 | 9,7 ± 0,3 | 2,1
-**Wasserkapazität 48 h (Großlysimeter)** / **Wasseranteil bei pF 1,8 (Mikrolysimeter) in Vol.-%** | 6,5 | 6,1 ± 0,9 | 0,4
-**Permanenter Welkepunkt in Vol.-%** | / | 1,08 | /
 
 !!! info
     Für weitere Informationen siehe Bericht [Hydrologische Charakterisierung der Substrate von Land Schafft Wasser](...)

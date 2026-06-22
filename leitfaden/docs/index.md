@@ -1,7 +1,7 @@
 # Leitfaden zur naturnahen Regenwasserbewirtschaftung in der Stadt Graz
 
 !!! warning 
-    **DIESE SEITE BEFINDET SICH ERST IM AUFBAU UND IST NICHT FERTIG**
+    **DIESE SEITE BEFINDET SICH ERST IM AUFBAU UND IST NICHT FERTIG und wird von Nadine bearbeitet**
 
 
 Dieser Leitfaden ist im Rahmen des Projektes "naturnahe Regenwasserbewirtschaftung 4.0" der Stadt Graz, des Lades Steiermark und der Holding Graz entstanden und wird aktuell durch das Institut für Siedlungswasserwirtschaft der TU Graz betreut.
