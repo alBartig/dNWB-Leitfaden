@@ -11,7 +11,7 @@ Gewässer, Hochwasser & Gewässerschutz und Siedlungswasserwirtschaft mit
 den Tätigkeitsfeldern Forschung, Abteilungsleitung,
 Amtssachverständigentätigkeiten und Förderungsabwicklung.
 
-## 1.	Wechselwirkungen von dNWBs auf Infrastruktur im Wurzelraum
+## Wechselwirkungen von dNWBs auf Infrastruktur im Wurzelraum
 Wurzeln wachsen immer in Richtung der geringsten Lagerungsdichte. Daher werden Künetten nach dem Verfüllen vergleichsweise schnell durchwurzelt. Auch sind Drainageleitungen häufig von Wurzeleinwüchsen betroffen.
 
 ### Schadensbild 1: Wurzeleinwüchse in Künetten
@@ -37,7 +37,7 @@ Wurzeln wachsen immer in Richtung der geringsten Lagerungsdichte. Daher werden K
 
 *	Durch Dickenwachstum können Wurzeln Schäden an Oberflächen verursachen, daher ist den Wurzeln unterirdisch Platz zu geben. Baumrigolen und Schwammstadtsysteme sind dafür besonders geeignet.
 
-## 2.	Wechselwirkungen von Infrastruktur im Wurzelraum auf dNWBs
+## Wechselwirkungen von Infrastruktur im Wurzelraum auf dNWBs
 Bäume werden erst in einem Alter von 70 Jahren stadtökologisch wertvoll. Daher müssen Maßnahmen gefunden werden um Schädigungen von Bäumen zu unterbinden.
 
 ### Schadensbild 1: mechanische Wurzelbeschädigungen
@@ -59,7 +59,7 @@ Bäume werden erst in einem Alter von 70 Jahren stadtökologisch wertvoll. Daher
 *	Staunässe in Schwammstadtsystemen und Baumrigolen muss verhindert werden
 *	Niederschlagswasser aus Flächen auf denen Streusalz aufgebracht wird nicht in Baumscheiben einleiten
 
-## 3.	Wechselwirkungen zwischen dNWBs und der Infrastruktur
+## Wechselwirkungen zwischen dNWBs und der Infrastruktur
 ### Schadensbild 1: Vernässung von Kellern
 Der Weg von Sickerwasser kann vor allem im Innerstädtischen Bereichen nicht genau vorhergesagt werden. Durch Wasserundurchlässige Schichten oder bestehende Künetten kann sich eingebrachtes Niederschlagswasser auch lateral Verteilen.
 
@@ -92,7 +92,7 @@ Die hydraulische Überlastung von dezentralen Niederschlagswasserbewirtschaftung
 
 *	Ein Rückstau aus dem Kanalsystem in dNWBs muss verhindert werden. Zum Beispiel durch Rückstauklappen die so zu errichten sind, dass sie gewartet werden können.
 
-## 4.	Wechselwirkungen von dNWBs im Untergrund 
+## Wechselwirkungen von dNWBs im Untergrund 
 Durch Sickerwasser verändern sich Eigenschaften von Böden. Dadurch sind Setzungen, Massenbewegungen und auch Auswirkungen auf Straßenaufbauten nicht ausgeschlossen. Bedingt durch die geografische Lage Österreichs ist mit Frost und dessen Einwirkungen zu rechnen.
 
 ### Schadensbild 1: Setzungen
@@ -124,7 +124,7 @@ Der Winterdienst in Österreich erfordert es Streusalz in Form von Natriumchlori
 *	First-Flush-System zur Ableitung des ersten hoch konzentrierten, Natriumchlorid haltigen Niederschlagswassers und einleiten des Second-Flush in dNWBs
 *	Entwässerungsflächen trennen und nur Niederschlagswasser aus Flächen die nicht mit Streusalz belastet sind in Baumscheiben einleiteneigenschaften
 
-## 5.	Wechselwirkungen von verschmutztem Niederschlagswasser auf dNWBs
+## Wechselwirkungen von verschmutztem Niederschlagswasser auf dNWBs
 Durch verschmutztes Niederschlagswasser kann die Funktion von dNWBs beeinträchtigt werden. Auch können Schmutzstoffe in Gewässer gelangen
 
 ### Schadensbild 1: Verstopfung von Vliesen durch Verschlammung
@@ -149,7 +149,7 @@ Durch verschmutztes Niederschlagswasser kann die Funktion von dNWBs beeinträcht
 *	Vorreinigung des Niederschlagswassers durch Feststoffabsetzsysteme
 *	Kontrollschächte als Spülmöglichkeit bei Drainageleitungen
 
-## 6.	Fehlendes Grundlagenwissen
+## Fehlendes Grundlagenwissen
 ### Schadensbild 1: Planungsfehler und Ausführungsfehler
 Planer und ausführende Firmen sind auf Schwammstadtsysteme noch nicht ausreichend geschult. Daher müssen Maßnahmen getroffen werden um Fehler zu verhindern.
 
@@ -170,11 +170,5 @@ Schwammstadtsysteme sind in Österreich noch nicht so lange etabliert. Daher feh
 
 
 !!! info
-    Für weitere Informationen siehe:
-
-    - Bericht [Naturnahe Regenwasserbewirtschaftung 4.0 - Handlungsempfehlungen für Grau und die Steiermark - Zwischenbericht](...) und
-
-    - [„Dezentrale  Niederschlagswasserbewirtschaftungsmaßnahmen -- Wechselwirkungen und Auswirkungen auf benachbarte Infrastruktur" von Michael Winkler, 2023](https://online.tugraz.at/tug_online/wbAbs.showThesis?pThesisNr=86699&pOrgNr=1231)
-
     Ansprechpartner: [TU Graz - Institut für Siedlungswasserwirtschaft und Landschaftswasserbau](https://www.tugraz.at/institute/sww/home)
 

@@ -17,12 +17,13 @@ markdown_extensions:
 plugins:
   - search
 #  - enumerate-headings:
-#      toc_depth: 3    # bis Ebene 3 nummerieren (ToC inkl.)
+#      increment_across_pages: False
+#      toc_depth: 4    # bis Ebene 3 nummerieren (ToC inkl.)
 #      strict: true    # Fehler melden, wenn erste Überschrift nicht H1 ist
 #      exclude: ["index.md",
 #                "projektbeteiligte.md",
 #                "kontakt.md",]
-#      increment_across_pages: True
+
 
 #extra:
 #  generator: false
@@ -52,8 +53,6 @@ nav:
       - Regelung zum Untergrund: teil33.md
       - Regelung zur Oberfläche: teil32.md
       - Regelung zum Bauprozess: teil34.md
-      - Weiterführende Literatur: teil31.md
-  - Referenzen: teil37.md
   - Projektbeteiligte: projektbeteiligte.md
   - Kontakt: kontakt.md
 

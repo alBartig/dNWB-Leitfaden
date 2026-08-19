@@ -2,7 +2,8 @@
 
     Die dargestellten Ergebnisse beziehen sich aus Erkenntnisse, die im Rahmen der Projektes NWB 4.0 vom Institut für Siedlungswasserwirtschaft der TU Graz erarbeitet wurden.
 
-    Ansprechpartner: [Institut für Siedlungswasserwirtschaft](https:\\sww.tugraz.at)
+    Ansprechpartner: [Institut für Siedlungswasserwirtschaft](https:\\sww.tugraz.at)  
+    Zuletzt aktualisiert: Dezember 2022
 
 Die Errichtung von Baumrigolen, Mulden und Versickerungsanlagen stellt besondere Anforderungen an die Bauausführung. Neben der hydraulischen Dimensionierung sind die fachgerechte Herstellung des Untergrundes, der Schutz bestehender Vegetation, der Aufbau von Verkehrsflächen sowie die Einhaltung geotechnischer und bautechnischer Anforderungen zu berücksichtigen.
 
@@ -35,10 +36,6 @@ Die nachfolgende Übersicht fasst die für die Dimensionierung und Baudurchführ
 | RVS 08.03.01 – Erdarbeiten | Regelt Anforderungen an Bodenabtrag, Bodenverbesserung, Einbau, Verdichtung und Qualitätssicherung von Erdarbeiten im Zuge der Bauausführung. |
 | RVS 08.15.01 – Geotechnik | Relevant für die Beurteilung der Tragfähigkeit, Standsicherheit und Ausführung geotechnischer Maßnahmen während der Baudurchführung. |
 | DWA-A 138-1 – Anlagen zur Versickerung von Niederschlagswasser – Teil 1: Planung, Bau, Betrieb | Enthält Vorgaben zum konstruktiven Aufbau von Versickerungsflächen, Filter- und Speicherschichten sowie Anforderungen an deren fachgerechten Einbau. |
-
-!!! info
-    
-    Letzte Aktualisierung:  Juni 2026
 
 ## Spezielle Empfehlungen zu Baumstandorten
 

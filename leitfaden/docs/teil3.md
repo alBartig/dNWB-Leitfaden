@@ -1,7 +1,11 @@
 !!! abstract 
 
     In diesem Teil stehen Konzept, Planung und Dimensionierung im Mittelpunkt – mit Fokus auf normgerechte Auslegung, Genehmigungsfähigkeit und Betrieb im Grazer Stadtraum. Aufbauend auf den gesammelten Handlungsempfehlungen aus „Naturnahe Regenwasserbewirtschaftung 4.0“ (SWW TU Graz, 2022) sowie dem Stand der Technik aus ÖNORMEN, ÖWAV-Regelwerken, RVS und DWA werden Anforderungen systematisch für Grundwasser, Versickerung, Oberflächengewässer, Vegetation und Verkehrsraum strukturiert und den maßgeblichen gesetzlichen Rahmenbedingungen auf EU-, Bundes- und Landes-/Stadtebene gegenübergestellt. Ergänzend werden Potenziale und Restriktionen – insbesondere für Baumrigolen – bewertet und gezeigt, wie stark das Retentionspotenzial je nach Bemessungsstrategie (Starkregenvorsorge vs. Jahreswasserbilanz) variiert. Damit schafft Teil 3 eine belastbare Grundlage für die standortgerechte Auslegung, Genehmigungsfähigkeit sowie den dauerhaften Betrieb und die Wartung blau-grüner Maßnahmen im urbanen Straßenraum.
+    
+    Für weitere Informationen siehe Bericht [Naturnahe Regenwasserbewirtschaftung 4.0 - Handlungsempfehlungen für Graz und die Steiermark - Zwischenbericht](...)
 
+    Ansprechpartner: [TU Graz - Institut für Siedlungswasserwirtschaft und Landschaftswasserbau](https://www.tugraz.at/institute/sww/home)  
+    Zuletzt aktualisiert: Dezember 2022
 
 ## Relevante Normen
 
@@ -52,12 +56,39 @@ Tabelle 1-1: Stand der Technik - Matrix
 - [Verkehrsplanungsrichtlinie Stadt Graz](https://www.ris.bka.gv.at/Dokumente/Gemeinderecht/GEMRE_ST_60101_A10_8_012421_2011_0011/Verkehrsplaungsrichtlinie-Text_pdf_fertig.pdf){ target="_blank" }
 - [Freiraumplanerische Standards Stadt Graz](https://www.graz.at/cms/beitrag/10080561/7759256/freiraumplanerische_standards.html){ target="_blank" }
 
-!!! info
-    Für weitere Informationen siehe Bericht [Naturnahe Regenwasserbewirtschaftung 4.0 - Handlungsempfehlungen für Grau und die Steiermark - Zwischenbericht](...)
 
-    Ansprechpartner: 
+## Weiterführende Literatur
 
-    - [TU Graz - Institut für Siedlungswasserwirtschaft und Landschaftswasserbau](https://www.tugraz.at/institute/sww/home)
+Es wurden weitere Normen und Gesetze identifiziert, die das Thema "dezentrale Niederschlagswasserbewirtschaftung" zwar nicht im Kern betreffen, jedoch relevant sein können:
 
+- Gesetz vom 4. April 1995, mit dem Bauvorschriften für das Land
+  Steiermark erlassen werden (Steiermärkisches Baugesetz -- Stmk. BauG)
 
+- Gesetz vom 23. März 2010 über die Raumordnung in der Steiermark
+  (Steiermärkisches Raumordnungsgesetz 2010 -- StROG)
 
+- Steiermärkisches Landes-Straßenverwaltungsgesetz 1964 - LStVG. 1964
+
+- Verordnung des Bundesministers für Land- und Forstwirtschaft
+  betreffend Abwassereinleitungen in wasserrechtlich bewilligte
+  Kanalisationen (Indirekteinleiterverordnung -- IEV)
+
+- OIB Richtlinien (Österreichische Institut für Bautechnik)
+
+- ÖNORM B 3132: Gesteinskörnungen für ungebundene und hydraulisch
+  gebundene Gemische für Ingenieur- und Straßenbau - Regeln zur
+  Umsetzung der ÖNORM EN 13242
+
+- ÖNORM B 5072: Einsteig- und Kontrollschächte aus Beton,
+  Stahlfaserbeton und Stahlbeton
+
+- ÖNORM EN 13242: Gesteinskörnungen für ungebundene und hydraulisch
+  gebundene Gemische für Ingenieur- und Straßenbau
+
+- ÖNORM L 1061-1: Physikalische Bodenuntersuchungen - Bestimmung der
+  Korngrößenverteilung des Mineralbodens in land- und
+  forstwirtschaftlich genutzten Böden. Teil 1: Grobboden
+
+- ÖNORM L 1061-2: Physikalische Bodenuntersuchungen - Bestimmung der
+  Korngrößenverteilung des Mineralbodens in land- und
+  forstwirtschaftlich genutzten Böden. Teil 2: Feinboden

@@ -2,7 +2,8 @@
 
     Die dargestellten Ergebnisse beziehen sich aus Erkenntnisse, die im Rahmen der Projektes NWB 4.0 vom Institut für Siedlungswasserwirtschaft der TU Graz erarbeitet wurden.
 
-    Ansprechpartner: [Institut für Siedlungswasserwirtschaft](https:\\sww.tugraz.at)
+    Ansprechpartner: [Institut für Siedlungswasserwirtschaft](https:\\sww.tugraz.at)  
+    Zuletzt aktualisiert: Dezember 2022
 
 
 Die Planung und Umsetzung von Baumrigolen, Mulden und Versickerungsanlagen erfordert die Berücksichtigung einer Vielzahl technischer Regelwerke und Normen. Diese enthalten Anforderungen an den Untergrund, die Wasserqualität, den Schutz von Grundwasser und Vegetation, die Auswahl geeigneter Substrate sowie den Umgang mit standortspezifischen Belastungen wie Streusalzeinträgen.
@@ -364,10 +365,3 @@ chloridverträgliche Pflanzen ist auch ein Chloridgehalt zwischen 70 und
 Sowohl abstumpfende als auch auftauende Streumittel bringen Probleme mit
 sich, Bauwerksschäden durch Sulfat oder Korrision von Fahrzeugen (RVS,
 2022).
-
-!!! info
-    Für weitere Informationen siehe Bericht [Naturnahe Regenwasserbewirtschaftung 4.0 - Handlungsempfehlungen für Grau und die Steiermark - Zwischenbericht](...)
-
-    Ansprechpartner: 
-
-    - [TU Graz - Institut für Siedlungswasserwirtschaft und Landschaftswasserbau](https://www.tugraz.at/institute/sww/home)

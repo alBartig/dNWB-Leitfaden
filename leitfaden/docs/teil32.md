@@ -2,7 +2,8 @@
 
     Die dargestellten Ergebnisse beziehen sich aus Erkenntnisse, die im Rahmen der Projektes NWB 4.0 vom Institut für Siedlungswasserwirtschaft der TU Graz erarbeitet wurden.
 
-    Ansprechpartner: [Institut für Siedlungswasserwirtschaft](https:\\sww.tugraz.at)
+    Ansprechpartner: [Institut für Siedlungswasserwirtschaft](https:\\sww.tugraz.at)  
+    Zuletzt aktualisiert: Dezember 2022
 
 Die Planung und Umsetzung von Baumrigolen, Mulden und Versickerungsanlagen erfordert neben der Berücksichtigung der Untergrundverhältnisse auch eine sorgfältige Gestaltung und Bewirtschaftung der Oberfläche. Technische Regelwerke und Normen enthalten hierzu Anforderungen an die Integration in den Verkehrsraum, die Wasserqualität oberflächiger Abflüsse, die Pflege und Wartung von Vegetationsflächen, die Bewässerung sowie die Auswahl geeigneter Gehölze und deren Flächenbedarf.
 
@@ -327,10 +328,3 @@ Dauerhaftigkeit und Tragfähigkeit beeinträchtigen. Großkronige Bäume
 sollten mindestens 6 m² wasser- und luftdurchlässige Oberfläche und
 12 m³ Wurzelraum zur Verfügung haben. Bei kleinkronigen Bäumen darf
 dieses Maß unterschritten werden. (RVS, 2019)
-
-!!! info
-    Für weitere Informationen siehe Bericht [Naturnahe Regenwasserbewirtschaftung 4.0 - Handlungsempfehlungen für Grau und die Steiermark - Zwischenbericht](...)
-
-    Ansprechpartner: 
-
-    - [TU Graz - Institut für Siedlungswasserwirtschaft und Landschaftswasserbau](https://www.tugraz.at/institute/sww/home)

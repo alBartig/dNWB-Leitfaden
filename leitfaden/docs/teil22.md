@@ -1,8 +1,9 @@
+!!! abstract
+
+    Die dargestellten Ergebnisse beziehen sich auf den Bericht ["Ermittlung der Filtereigenschaften von Stadtbaumsubstraten"](https://www.data.gv.at/datasets/0318f9a5-5763-47b9-94e3-52d5a5fcea04?locale=de) zum Projekt nRWM 4.0.
+
 
 ### Substrate zur Filterung
-
-!!! abstract
-    Regenwasser von Verkehrsflächen muss vor der Versickerung je nach Flächenkategorie gereinigt werden. Natürliche und technische Bodenfilter nach ÖNORM B 2506-2 bzw. ÖWAV RB 45 können die üblichen Schadstoffe zurückhalten und erfüllen damit die Anforderungen des Grundwasserschutzes. Die direkte Einleitung in Baumscheiben rückt in engen Stadträumen in den Fokus, ist aber normativ (noch) nicht voll abgedeckt.
 
 Wird Regenwasser von Verkehrsflächen gezielt zur Versickerung gebracht,
 ist je nach Flächenkategorie eine geeignete Reinigungsmaßnahme

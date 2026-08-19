@@ -1,7 +1,7 @@
 # Leitfaden zur naturnahen Regenwasserbewirtschaftung in der Stadt Graz
 
 !!! warning 
-    **DIESE SEITE BEFINDET SICH ERST IM AUFBAU UND IST NICHT FERTIG und wird von Nadine bearbeitet**
+    **DIESE SEITE BEFINDET SICH ERST IM AUFBAU UND IST NICHT FERTIG**
 
 
 Dieser Leitfaden ist im Rahmen des Projektes "naturnahe Regenwasserbewirtschaftung 4.0" der Stadt Graz, des Lades Steiermark und der Holding Graz entstanden und wird aktuell durch das Institut für Siedlungswasserwirtschaft der TU Graz betreut.
@@ -61,32 +61,30 @@ Die strategische Planung der Stadt Graz im Bereich der naturnahen Regenwasserbew
 
 1. [Ziele dezentraler Niederschlagswasserbewirtschaftung](teil11_randbedingungen.md)
 2. [Zielvorgaben in der Stadt Graz](teil12.md)
-3. [Wasserwirtschaftliche Grundlagen – Wasserqualität](teil123.md)
-4. [Wasserwirtschaftliche Grundlagen – Hydraulik und Hydrologie](teil1234.md)
+3. [Hintergrund - Wasserqualität](teil123.md)
+4. [Hintergrund - Hydraulik und Hydrologie](teil1234.md)
 5. [Blau-grüne Potentiale in Graz](teil11_blaugruene_potentiale.md)
-6. [Wechselwirkungen zwischen verschiedenen Teilen der Infrastruktur](teil14.md)
+6. [Was kann erreicht werden?](teil15.md)
+7. [Wechselwirkungen zwischen verschiedenen Teilen der Infrastruktur](teil14.md)
 
 ## Über [Teil 2 - Baumstandorte als Elemente der Regenwasserbewirtschaftung](teil2.md)
 
 
 Dieser Teil widmet sich Baumstandorten als multifunktionalen Elementen der dezentralen Regenwasserbewirtschaftung im urbanen Raum. Im Fokus stehen die Funktionsweise und die grundlegenden Prinzipien von Baumstandorten zur Aufnahme, Speicherung und Ableitung von Niederschlagswasser sowie deren Abbildung in vereinfachten und detaillierten Modellansätzen. Aufbauend auf internationalen Vorbildern wie dem Stockholm-System und deren österreichischer Adaption werden Erkenntnisse aus Modellierungen und Projektberichten zusammengeführt. Ergänzend werden die eingesetzten Substrate betrachtet, insbesondere ihre hydraulischen Eigenschaften und ihr Potenzial zur Filterung von Schadstoffen. Damit liefert Teil 2 eine fachliche Grundlage zur Bewertung von Baumstandorten als wasserwirtschaftlich wirksame und zugleich vegetationsrelevante Elemente blau-grüner Infrastruktur.
 
-1. [Funktionsweise / Grundprinzipien](teil21.md)
-2. [Verwendete Substrate](teil22.md)
-3. [Bestimmung des Schadstoffrückhalts (Säulenversuche)](teil23.md)
-4. [Standardisierbare Fertigationstechniken bei der Baumpflanzung](teil24.md)
+1. [Ein Blick in das (virtuelle) Innere](teil21.md)
+2. [Substrate für Baumrigolen](teil22.md)
+3. [Schadstoffrückhalt in Baumrigolen](teil23.md)
+4. [Fertigationstechniken bei der Baumpflanzung](teil24.md)
 
 ## Über [Teil 3 - Konzept und Planung](teil3.md)
 
 Im dritten Teil stehen Konzept, Planung und Dimensionierung im Mittelpunkt – mit Fokus auf normgerechte Auslegung, Genehmigungsfähigkeit und Betrieb im Grazer Stadtraum. Aufbauend auf den Handlungsempfehlungen aus „Naturnahe Regenwasserbewirtschaftung 4.0“ (SWW TU Graz, 2022) sowie dem Stand der Technik aus ÖNORMEN, ÖWAV-Regelwerken, RVS und DWA werden Anforderungen systematisch für Grundwasser, Versickerung, Oberflächengewässer, Vegetation und Verkehrsraum strukturiert und den maßgeblichen gesetzlichen Rahmenbedingungen auf EU-, Bundes- und Landes-/Stadtebene gegenübergestellt. Ergänzend werden Potenziale und Restriktionen – insbesondere für Baumrigolen – bewertet und gezeigt, wie stark das Retentionspotenzial je nach Bemessungsstrategie (Starkregenvorsorge vs. Jahreswasserbilanz) variiert. Damit schafft Teil 3 eine belastbare Grundlage für die standortgerechte Auslegung, Genehmigungsfähigkeit sowie den dauerhaften Betrieb und die Wartung blau-grüner Maßnahmen im urbanen Straßenraum.
 
-1. [Dimensionierung Regularien](teil3.md)
-2. [Baumrigolen](teil35.md) 
-3. [Bewertung der Potenziale](teil36.md) 
-4. [Regelung zum Untergrund](teil33.md) 
-5. [Regelung zur Oberfläche](teil32.md) 
-6. [Regelung zum Bauprozess](teil34.md) 
-7. [Weiterführende Literatur](teil31.md)
+1. [Normen und Gesetze](teil3.md) 
+2. [Regelung zum Untergrund](teil33.md) 
+3. [Regelung zur Oberfläche](teil32.md) 
+4. [Regelung zum Bauprozess](teil34.md)
 
 ## Über das [Projekt](projektbeteiligte.md)
 
